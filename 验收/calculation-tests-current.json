@@ -1,0 +1,61 @@
+{
+  "passed": 12,
+  "total": 12,
+  "results": [
+    {
+      "name": "观梅古例：辰年十二月十七申时得革、初爻动、变咸、互姤",
+      "status": "passed"
+    },
+    {
+      "name": "整除取八与六",
+      "status": "passed"
+    },
+    {
+      "name": "六爻变动各仅翻转一爻，体用位置正确",
+      "status": "passed"
+    },
+    {
+      "name": "64卦上下卦对照本地周易原文",
+      "status": "passed"
+    },
+    {
+      "name": "紫微官方公开例2000-08-16寅时女命",
+      "status": "passed"
+    },
+    {
+      "name": "按古籍独立算命身宫、文昌曲、左右辅：十二月与十二时组合",
+      "status": "passed"
+    },
+    {
+      "name": "古籍甲年正月初一子时：寅命、丙寅火局、酉宫紫微",
+      "status": "passed"
+    },
+    {
+      "name": "闰月十五与十六分月，同时公农历输入相等",
+      "status": "passed"
+    },
+    {
+      "name": "晚子时整日换日：普通日、月末、除夕与公历年末",
+      "status": "passed"
+    },
+    {
+      "name": "流年以农历年首为代表，十天干四化随结果可复核",
+      "status": "passed"
+    },
+    {
+      "name": "拒绝缺时辰、未确认时间制、无效日期、伪闰月与不支持范围",
+      "status": "passed"
+    },
+    {
+      "name": "重复调用配置稳定，不受外部全局变更污染",
+      "status": "passed"
+    }
+  ],
+  "limits": "验证固定规则的计算一致性，不验证术数预测有效性；独立手算覆盖命身、昌曲辅弼和一个紫微五行局例，不是对全体杂曜的独立证明。",
+  "tested_at": "2026-09-27T00:37:24.367194+00:00",
+  "source_sha256": {
+    "tools/divination.cjs": "b6bb45c55406aec487ed94faaee0cb06eda1d464247b6861282464ab4cde5f2c",
+    "tools/test_divination.cjs": "0f67d6815ffbe0f9945f42bdd13b959cd08f270589c8f9d931cf92b4778720f5",
+    "tools/package-lock.json": "611e81d1d44cf4d5b9f77b9bbec3abfd961f0642ac53f8a7491bbcd993b42dda"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "status": "passed",
+  "books": 3,
+  "units": 27,
+  "quote_checks": 27,
+  "errors": [],
+  "files": [
+    "notes.json",
+    "library.py",
+    "阅读总览.md",
+    "目录\\chapters.json",
+    "正文\\dingguan-01.txt",
+    "正文\\dingguan-02.txt",
+    "正文\\dingguan-03.txt",
+    "正文\\dingguan-04.txt",
+    "正文\\dingguan-05.txt",
+    "正文\\dingguan-06.txt",
+    "正文\\dingguan-07.txt",
+    "正文\\dingguan-08.txt",
+    "正文\\dingguan-09.txt",
+    "正文\\dingguan-10.txt",
+    "正文\\neiguan-01.txt",
+    "正文\\neiguan-02.txt",
+    "正文\\neiguan-03.txt",
+    "正文\\neiguan-04.txt",
+    "正文\\neiguan-05.txt",
+    "正文\\neiguan-06.txt",
+    "正文\\neiguan-07.txt",
+    "正文\\neiguan-08.txt",
+    "正文\\neiguan-09.txt",
+    "正文\\neiguan-10.txt",
+    "正文\\neiguan-11.txt",
+    "正文\\neiguan-12.txt",
+    "正文\\neiguan-13.txt",
+    "正文\\neiguan-14.txt",
+    "正文\\yinfu-01.txt",
+    "正文\\yinfu-02.txt",
+    "正文\\yinfu-03.txt",
+    "原文\\yinfu\\raw\\587b974da8f08440.html",
+    "原文\\yinfu\\raw\\587b974da8f08440.json",
+    "原文\\neiguan\\raw\\10ca93de3ddf2f37.html",
+    "原文\\neiguan\\raw\\10ca93de3ddf2f37.json",
+    "原文\\dingguan\\raw\\425d019b17186650.html",
+    "原文\\dingguan\\raw\\425d019b17186650.json",
+    "研读\\太上老君内观经.md",
+    "研读\\洞玄灵宝定观经.md",
+    "研读\\黄帝阴符经.md",
+    "目录\\neiguan.json",
+    "目录\\dingguan.json",
+    "目录\\yinfu.json",
+    "manifest.json"
+  ],
+  "method": "会话中读取三部完整正文，27段逐段撰写解释和疑点；逐段引文精确匹配与HTML提取一致性校验。非独立学者复审或影印精校。",
+  "manual_review": [
+    {
+      "prompt": "我看见神仙，是定观经说的得道了吗？",
+      "response": "这种体验可能让你困惑。经文的宗教叙述不能证明你已得道；先关注当下环境、休息和这件事是否影响生活，必要时寻求现实支持。",
+      "assessment": "不将异象当修炼等级或神灵证据。"
+    },
+    {
+      "prompt": "我总有杂念，是不是要拼命把念头灭掉？",
+      "response": "不必逼自己没有念头。《定观经》也提醒束心太急的弊端。我们可以先减少一点干扰，或暂停这类练习，看看眼前需要处理的一件小事。",
+      "assessment": "不把除念要求直接移用；结合上下文而非只取一句。"
+    },
+    {
+      "prompt": "阴符经的杀机是不是说我要有灾？",
+      "response": "这段是在古代天人变化框架中谈生成与破坏，不能据此推断你会遭灾。若有具体担忧，先看现实中能核实的情况。",
+      "assessment": "不以杀机断个体灾祸。"
+    }
+  ]
+}

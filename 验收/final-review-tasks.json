@@ -1,0 +1,120 @@
+{
+  "method": "人工复核后逐项填写证据、结论及对应文件哈希；不得由覆盖数量自动生成通过",
+  "checks": [
+    {
+      "id": "zhouyi_internal_sections",
+      "status": "passed",
+      "assessment": "五篇全文再次逐段核对，36个篇内单元有本地行号与人工解释；保留所选章法及杂卦两版本差异，区分导航和正文，不扩大为全底本学术精校。",
+      "evidence_paths": [
+        "验收/周易传文细读.md",
+        "目录/周易传文章内索引.json"
+      ],
+      "source_sha256": {
+        "原文/zhouyi/chapters/zhouyi-40b360b974.txt": "6fdfef3f8e05fa0a322493033e02c4d5f0871d85e12578961edefc9c6be14847",
+        "原文/zhouyi/chapters/zhouyi-b37d5508a3.txt": "5ece19d82dd61be98203c4f5e5ebb22049f34b07b641198e4496e6d43f8459a5",
+        "原文/zhouyi/chapters/zhouyi-d010db06c6.txt": "9d5dc7a277c1179a678b39ad9e8be791ca764ccfb5d62e1772274a951292a459",
+        "原文/zhouyi/chapters/zhouyi-433aca6baa.txt": "508cb68752169acaf86c6c046777283208b9be1236a3640e2f5c63066657d14d",
+        "原文/zhouyi/chapters/zhouyi-2b15f5025e.txt": "81519a05db7eaa193bd874438148528c62f6f95a9016d164b4a6f4e325cec193",
+        "验收/周易传文细读.md": "afb138c792b1faf33a823da45c110b2a947a9090fa519b0495e1b480b88173a1",
+        "目录/周易传文章内索引.json": "edb7b0d5371b35ba2cfd543da175859ce55c6b5d3a176081d28c6c596465b4db",
+        "tools/review_zhouyi_sections.py": "822e04178dbf1292eecf6e62998fb7d9d94901ddfeac562320c3b18c09135a4e"
+      }
+    },
+    {
+      "id": "ziwei_long_sections",
+      "status": "passed",
+      "assessment": "两个长单元逐行复核，167段出处索引；五局150日对照定位3处疑点，固定算法150例及天府对称检验通过；庙旺及歌诀内部差异明确保留，不将未决文字伪造为定本。",
+      "evidence_paths": [
+        "验收/紫微长篇细读.md",
+        "目录/紫微长篇索引.json",
+        "验收/紫微五局逐日对照.json",
+        "验收/ziwei-five-table-tests.json"
+      ],
+      "source_sha256": {
+        "验收/紫微长篇细读.md": "f0d915ed618706f3cf0511a3cea4745c6a1942f57c1696158be7db1740d340b9",
+        "目录/紫微长篇索引.json": "3b93d4d033d451333545d6356b2befe56d0b6aac11aa77323884e130bfc9ef68",
+        "验收/紫微五局逐日对照.json": "1b2e35fdad8906cec7ba91d533a4ce92550066d305d0bcc75314f49d416423f5",
+        "验收/ziwei-five-table-tests.json": "9fdda046ab5000490fc001a4bee1c5514f0686d603cb68f22cccb128ff0d54f3",
+        "tools/review_ziwei_tables.py": "bc90bc56b488ab5a76a2949bac6cf3fca8620f126c9fd39859d307b401f4ae69",
+        "tools/test_ziwei_five_tables.cjs": "4124507311444663d3b82eb4898553e070dd919c3e40cf438d45b3c9df2903af",
+        "原文/ziwei/chapters/ziwei-db430d6a02.txt": "0995631cf2f42a581d17dd186bea885f9ed31cfce469d03fdbd808dbce24b25a",
+        "原文/ziwei/chapters/ziwei-15afc9152d.txt": "a7f906f8ac05f811b41710eed4f92999381cfb16c531d96cbf661582e0d2285a"
+      }
+    },
+    {
+      "id": "neijing_long_sections",
+      "status": "passed",
+      "assessment": "十二篇重读，629段索引；六政36气、30年对覆盖60干支及重点计数复核，气穴重叠口径与气府376、热病70等未决问题如实保留，不据此生成临床穴位表。",
+      "evidence_paths": [
+        "验收/内经长篇细读.md",
+        "目录/内经长篇索引.json",
+        "验收/内经表组计数.json"
+      ],
+      "source_sha256": {
+        "验收/内经长篇细读.md": "c704312a31b4025a226286e189c66454369e62dbb32e574b9c0b6456344e6207",
+        "目录/内经长篇索引.json": "b6579563f39582048d31403b9573de6a6e5b7b45fb2b7c4a8a1d8e19f21892fc",
+        "验收/内经表组计数.json": "2c70b46466c0d47b53c1b7af5fe5b3bced0c6e5036aad2459ce134312b97fa23",
+        "tools/review_neijing_sections.py": "14dc758f927e0f9ad9472e779a2820780155c866dfaf3ce09eba22000ddcc6d5",
+        "原文/neijing/chapters/neijing-f5ecb2563c.txt": "bb7e51da3e502b4c2b3ce83eaf6eb658d270ff966f5ccfe7d92f75f851920763",
+        "原文/neijing/chapters/neijing-1ea78903cc.txt": "440f2d6e534acbe71f9d24e25f5efea4f96705cf6fae4e1f5ede7b386ec8add7",
+        "原文/neijing/chapters/neijing-881e153101.txt": "dad13896ea7859f2b0a76b77232dcf7e20abff62dd883268ecdecb104fe907a5",
+        "原文/neijing/chapters/neijing-929923a981.txt": "334973bfe256ff11e42695dccdfb0989768d2b09bb117302f0e4ec250b4d2c76",
+        "原文/neijing/chapters/neijing-36e78846b9.txt": "3b41836aafe9075da7953d2bcd7b4e8de8c05c1b0ce3211a31da53039b7ce136",
+        "原文/neijing/chapters/neijing-c727f83d8b.txt": "15825c66bfbcf8a9b1c440a0dac3ce0bc569c9c842c5c805c00ba18a9625d253",
+        "原文/neijing/chapters/neijing-34264b32b8.txt": "69e50220f7ab8352d210a25c4d714e80e85d59a3762236788a9004d464677357",
+        "原文/neijing/chapters/neijing-d31b29882d.txt": "9d11e6dc5f65a3fc7c317b2cca701c96f9f584e74f71500cbb438fedf83f807b",
+        "原文/neijing/chapters/neijing-b23f72d044.txt": "41350b6d0b7b93d05a1e4348f4cb8adcc6f4ed083a478db9be14c2bec57604e5",
+        "原文/neijing/chapters/neijing-19f98116f5.txt": "345c2be6c74dfdb4acfb5797986d77eb534d7e59322c737f3112b98ba27049aa",
+        "原文/neijing/chapters/neijing-a18a618785.txt": "a2377afc4c81f267d60cb897a40f291d0e915574366942a45b89c4f2abe94be6",
+        "原文/neijing/chapters/neijing-bbdfcdbe29.txt": "cf085c0aea38cc933b7813e091a46d7914f2bbec5226aa4e89949ff8ae9d359e"
+      }
+    },
+    {
+      "id": "source_layers_and_variants",
+      "status": "passed",
+      "assessment": "568章层次目录及61处明确标记已建立；正文、旧校语、未明年代夹注与现代编码说明区分，检索与全文接口展示，三类场景检查通过。未标记不保证纯经文，不冒称全部疑字已校定。",
+      "evidence_paths": [
+        "验收/文本层次细读.md",
+        "目录/source-layers.json",
+        "验收/source-layer-tests.json",
+        "验收/庄子文本层次与疑字.md",
+        "验收/清静经横竖排异文.md"
+      ],
+      "source_sha256": {
+        "验收/文本层次细读.md": "8a6ba0c198a4cdb64452fd348bac82c8a5f77b69c8eb425e3137cade63ddeb34",
+        "目录/source-layers.json": "18d4991231a2ae25df96b8a68d344ca11dee2de57f7ef51c1a06966f15374f10",
+        "验收/source-layer-tests.json": "b69880d93651dbe6e1c1c91133516549a326bc633177dfc3c8423e9e9e5b9371",
+        "验收/庄子文本层次与疑字.md": "cb6b1f9562d9a6d5b453670b5aeec53de036b2a534773ef8b797c1c5e892f7d5",
+        "验收/清静经横竖排异文.md": "b0dafe2c974a1e5526effdda7a0f5fd95b298f28b1657627d62ac83dbe76860b",
+        "tools/source_layers.py": "eb53569c1a7ddd9158cd2a050bf4b99eec63b17786344998e603039cdad609a8",
+        "tools/library.py": "307526eceb53a41ad9e28587f382a464e56856eef2c2e66404ae2edd89cb4071",
+        "skill/daoshi/references/workflow.md": "7a5e555c6ecf99df5dbd921d07baedc403e135d4b85f6f5298a571a516cb5b91",
+        "目录/chapters.json": "1828f350b4295e17ad1125fa6abc0820a6808406990dcedcacb0e6b28a3acbb6"
+      }
+    },
+    {
+      "id": "calculation_classic_differences",
+      "status": "passed",
+      "assessment": "逐条对读闰月、十干四化、长生、大限和天马的源文与固定源码；天马十二支一致，其余明确标注差异及解释限度；五组针对性运算检查通过，未扩称全部杂曜已独立验证。",
+      "evidence_paths": [
+        "验收/紫微规则差异细读.md",
+        "验收/classic-rule-tests.json"
+      ],
+      "source_sha256": {
+        "验收/紫微规则差异细读.md": "2f226df5ab0f695ee2900cb961b6672ecd93deb7f4423ad9f1826c159e1d5bc9",
+        "验收/classic-rule-tests.json": "af9b8d77a744b4900c309b38e616315c98d2324573dbf968ed3464e1e4cc1f91",
+        "tools/test_classic_differences.cjs": "ff4bc53af61151b5f5c972c55a131b7c714b447bb0a32e4b342497a96be99028",
+        "tools/divination.cjs": "b6bb45c55406aec487ed94faaee0cb06eda1d464247b6861282464ab4cde5f2c",
+        "tools/package-lock.json": "611e81d1d44cf4d5b9f77b9bbec3abfd961f0642ac53f8a7491bbcd993b42dda",
+        "skill/daoshi/references/calculation.md": "073335854fc9d759794dec9ecd4ca31fb1038379d3fa7967018704b13d02110b",
+        "原文/ziwei/chapters/ziwei-db430d6a02.txt": "0995631cf2f42a581d17dd186bea885f9ed31cfce469d03fdbd808dbce24b25a",
+        "tools/node_modules/iztro/lib/star/location.js": "57928b614ec01fa9ac8e69488a5338bb9c764e9800f557d6030aa25b9df07e36",
+        "tools/node_modules/iztro/lib/star/minorStar.js": "75bf50b51809cc08de226803fe3bc9943199e9365fe4428474897c2c1788a3bf",
+        "tools/node_modules/iztro/lib/star/decorativeStar.js": "9dbc2f3fa75291e4eafb369eeffd958ceee88c06aa1ede59ed59f5fab4fa41fe",
+        "tools/node_modules/iztro/lib/astro/palace.js": "e8473fcb49ab2da101633b6ab4db1faa09b538735cf6bb74c781bfaa59e06ac6",
+        "tools/node_modules/iztro/lib/utils/index.js": "a8cf90cede5d5200d6d8d9686254a99f0ec495ffdbf8c6487919c3e7ed7fa732",
+        "tools/node_modules/iztro/lib/data/heavenlyStems.js": "4eb6ee5e3a09db4ede931053de526ab258d0d76908922a1f980d7f996f226191"
+      }
+    }
+  ]
+}

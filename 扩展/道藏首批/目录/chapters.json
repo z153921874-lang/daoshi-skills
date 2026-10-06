@@ -1,0 +1,515 @@
+[
+  {
+    "id": "neiguan-01",
+    "book": "neiguan",
+    "title": "生成与形神",
+    "path": "正文\\neiguan-01.txt",
+    "sha256": "2342a95a4659ef29a97d413e350c00b4771ad0210f39aa5e5124470ac5508dcf",
+    "review_status": "reviewed",
+    "quote": "天地媾精，陰陽布化",
+    "explanation": "以阴阳、五行与月数解释生命形成，属于宗教宇宙论和古代身体观。",
+    "application": "与《内经》的身体叙述对读，辨认时代与体系。",
+    "uncertainty": "不能作为现代胚胎发育知识，也不能以宿业解释个体遭遇。",
+    "related": [
+      "清静经",
+      "坐忘论"
+    ],
+    "source_url": "https://zh.wikisource.org/wiki/%E5%A4%AA%E4%B8%8A%E8%80%81%E5%90%9B%E5%85%A7%E8%A7%80%E7%B6%93",
+    "revision_id": "2489658",
+    "source_paragraph": 1
+  },
+  {
+    "id": "neiguan-02",
+    "book": "neiguan",
+    "title": "身神与泥丸",
+    "path": "正文\\neiguan-02.txt",
+    "sha256": "54e7cfdae018a601bab2f50bb30bd34c445033641688d58cb80dce0f3a313f91",
+    "review_status": "reviewed",
+    "quote": "予內觀之，歷歷分也",
+    "explanation": "以泥丸、司命等身神组织身体内部空间，呈现道教内观的宗教背景。",
+    "application": "认识宗教象征，不把身神当成可诊断的实体。",
+    "uncertainty": "部位与神名不能直接等同现代解剖或神经系统。",
+    "related": [
+      "清静经",
+      "坐忘论"
+    ],
+    "source_url": "https://zh.wikisource.org/wiki/%E5%A4%AA%E4%B8%8A%E8%80%81%E5%90%9B%E5%85%A7%E8%A7%80%E7%B6%93",
+    "revision_id": "2489658",
+    "source_paragraph": 2
+  },
+  {
+    "id": "neiguan-03",
+    "book": "neiguan",
+    "title": "心与感官牵引",
+    "path": "正文\\neiguan-03.txt",
+    "sha256": "b8a307d4265b7d3857991503250e6c9e67bfdf6ace1bc15113dedd4f4ebb1ff4",
+    "review_status": "reviewed",
+    "quote": "使內觀己身，澄其心也",
+    "explanation": "由心的主宰作用谈感官追逐和憎爱取舍的缠绕；末尾归结为内观澄心。",
+    "application": "梳理触发事件、感受和追逐冲动，先观察再决定行动。",
+    "uncertainty": "正文将祸福生死归心是宗教论述；现实灾害和受害经历不能归咎当事人不清静。",
+    "related": [
+      "清静经",
+      "坐忘论"
+    ],
+    "source_url": "https://zh.wikisource.org/wiki/%E5%A4%AA%E4%B8%8A%E8%80%81%E5%90%9B%E5%85%A7%E8%A7%80%E7%B6%93",
+    "revision_id": "2489658",
+    "source_paragraph": 3
+  },
+  {
+    "id": "neiguan-04",
+    "book": "neiguan",
+    "title": "珍重生命",
+    "path": "正文\\neiguan-04.txt",
+    "sha256": "509e175b00670953ca87a963bf543401958421383897de364c7aed68970eb6df",
+    "review_status": "reviewed",
+    "quote": "性命合道，人當愛之",
+    "explanation": "将身体比拟天地宫阙，并劝人珍重自身、为善保真。",
+    "application": "讨论照顾自己与现实责任，不把劳累美化为修行。",
+    "uncertainty": "长生承诺不能解释为医学功效；身体不净的修辞不用于羞辱身体。",
+    "related": [
+      "清静经",
+      "坐忘论"
+    ],
+    "source_url": "https://zh.wikisource.org/wiki/%E5%A4%AA%E4%B8%8A%E8%80%81%E5%90%9B%E5%85%A7%E8%A7%80%E7%B6%93",
+    "revision_id": "2489658",
+    "source_paragraph": 4
+  },
+  {
+    "id": "neiguan-05",
+    "book": "neiguan",
+    "title": "性命心意志",
+    "path": "正文\\neiguan-05.txt",
+    "sha256": "029b968a53057c62439be655e7a1993c769159455bcfc89618d2faf3a0943270",
+    "review_status": "reviewed",
+    "quote": "心有所憶，謂之意",
+    "explanation": "连续界定命、性、心、意、志、智、慧及形神，最终把修道与修心联系起来。",
+    "application": "作为本经术语表；与其他经典同名概念逐条比较。",
+    "uncertainty": "不是现代心理学分类；此处命并不等同八字命盘，长生不死不作事实承诺。",
+    "related": [
+      "清静经",
+      "坐忘论"
+    ],
+    "source_url": "https://zh.wikisource.org/wiki/%E5%A4%AA%E4%B8%8A%E8%80%81%E5%90%9B%E5%85%A7%E8%A7%80%E7%B6%93",
+    "revision_id": "2489658",
+    "source_paragraph": 5
+  },
+  {
+    "id": "neiguan-06",
+    "book": "neiguan",
+    "title": "欲识循环",
+    "path": "正文\\neiguan-06.txt",
+    "sha256": "e203f533d6f0f985bb53cb6d1b6162d6138c1b1be4031980648bf9f110e7b97f",
+    "review_status": "reviewed",
+    "quote": "慾自識起",
+    "explanation": "从六情、六识和分别说明欲与识相互牵引。",
+    "application": "辨识越反复查看越想查看的行为循环，作为现代类比。",
+    "uncertainty": "类比不是实验结论，不把正常情感一律叫邪见。",
+    "related": [
+      "清静经",
+      "坐忘论"
+    ],
+    "source_url": "https://zh.wikisource.org/wiki/%E5%A4%AA%E4%B8%8A%E8%80%81%E5%90%9B%E5%85%A7%E8%A7%80%E7%B6%93",
+    "revision_id": "2489658",
+    "source_paragraph": 6
+  },
+  {
+    "id": "neiguan-07",
+    "book": "neiguan",
+    "title": "道与形的生死",
+    "path": "正文\\neiguan-07.txt",
+    "sha256": "294d07cef8b0a6010d7d5bb9b3dc40da7976002b39252f0f4294961e77f1d6bc",
+    "review_status": "reviewed",
+    "quote": "屬形不屬道也",
+    "explanation": "区别道的常在与形的生死，又以存生守道展开宗教修持理想。",
+    "application": "讨论有限生命与价值延续时，保留文本自己的宗教立场。",
+    "uncertainty": "不得从失道推断病因或责备病者，亦不承诺免死。",
+    "related": [
+      "清静经",
+      "坐忘论"
+    ],
+    "source_url": "https://zh.wikisource.org/wiki/%E5%A4%AA%E4%B8%8A%E8%80%81%E5%90%9B%E5%85%A7%E8%A7%80%E7%B6%93",
+    "revision_id": "2489658",
+    "source_paragraph": 7
+  },
+  {
+    "id": "neiguan-08",
+    "book": "neiguan",
+    "title": "灯火譬喻",
+    "path": "正文\\neiguan-08.txt",
+    "sha256": "b5ce26e0485ea30d5210cc54a144fcee3b8eb49f4011998adc83814eb08c6dfb",
+    "review_status": "reviewed",
+    "quote": "炷因油潤，油藉卮停",
+    "explanation": "以火、炷、油、卮相互依存比喻神明、心、形、道的关系。",
+    "application": "讨论工作能力需要休息、资源和环境等条件，只作类比。",
+    "uncertainty": "来源有水由形有字样，语义可疑，保留待校，不擅改为心或其他字。",
+    "related": [
+      "清静经",
+      "坐忘论"
+    ],
+    "source_url": "https://zh.wikisource.org/wiki/%E5%A4%AA%E4%B8%8A%E8%80%81%E5%90%9B%E5%85%A7%E8%A7%80%E7%B6%93",
+    "revision_id": "2489658",
+    "source_paragraph": 8
+  },
+  {
+    "id": "neiguan-09",
+    "book": "neiguan",
+    "title": "澄心诸名",
+    "path": "正文\\neiguan-09.txt",
+    "sha256": "c398237906ae5ccf88470a7a9bc50005499c691450b4164c11e5db2ceab42bc9",
+    "review_status": "reviewed",
+    "quote": "安心者，使不危也",
+    "explanation": "以虚、无、定、安、静、正、清、净及直平明通，分别说明修心取向。",
+    "application": "分辨自己需要安稳、清楚还是减少干扰，不强迫一次解决所有问题。",
+    "uncertainty": "四見者的断句及语义待多版本核对；无心不是无感情。",
+    "related": [
+      "清静经",
+      "坐忘论"
+    ],
+    "source_url": "https://zh.wikisource.org/wiki/%E5%A4%AA%E4%B8%8A%E8%80%81%E5%90%9B%E5%85%A7%E8%A7%80%E7%B6%93",
+    "revision_id": "2489658",
+    "source_paragraph": 9
+  },
+  {
+    "id": "neiguan-10",
+    "book": "neiguan",
+    "title": "知行与持守",
+    "path": "正文\\neiguan-10.txt",
+    "sha256": "8fcab9557291e2585d585cedec4dbcf509d5f0bfd0564156cae736ea7bff4316",
+    "review_status": "reviewed",
+    "quote": "得道易，守道難",
+    "explanation": "层层比较知道、信道、行道、得道和守道，强调持续实践。",
+    "application": "把理解一个道理落实为可重复的小行动。",
+    "uncertainty": "网页两处信旁均有一作通夹注；引文须区别正文与异文。",
+    "related": [
+      "清静经",
+      "坐忘论"
+    ],
+    "source_url": "https://zh.wikisource.org/wiki/%E5%A4%AA%E4%B8%8A%E8%80%81%E5%90%9B%E5%85%A7%E8%A7%80%E7%B6%93",
+    "revision_id": "2489658",
+    "source_paragraph": 10
+  },
+  {
+    "id": "neiguan-11",
+    "book": "neiguan",
+    "title": "求道与自我耗损",
+    "path": "正文\\neiguan-11.txt",
+    "sha256": "91bd55ba8a9edfc53f007d753abb49fe8e79b9c2e2a2f4d88f415b109070ae48",
+    "review_status": "reviewed",
+    "quote": "背道求道，當慎擇焉",
+    "explanation": "批评劳形、苦心、役志、躁神地求道，认为目标与方式可能相悖。",
+    "application": "检查为了效率而过度透支的做法。",
+    "uncertainty": "不是说所有努力都错误，也不是禁止寻求外部帮助。",
+    "related": [
+      "清静经",
+      "坐忘论"
+    ],
+    "source_url": "https://zh.wikisource.org/wiki/%E5%A4%AA%E4%B8%8A%E8%80%81%E5%90%9B%E5%85%A7%E8%A7%80%E7%B6%93",
+    "revision_id": "2489658",
+    "source_paragraph": 11
+  },
+  {
+    "id": "neiguan-12",
+    "book": "neiguan",
+    "title": "形神合道的宗教图景",
+    "path": "正文\\neiguan-12.txt",
+    "sha256": "302ba8cba4eb42b43261ecceb78fd9f6f2b6e91cee887d35ac320b5ef3275f31",
+    "review_status": "reviewed",
+    "quote": "形神合道，飛昇崑崙",
+    "explanation": "以昆仑、真人、金堂玉室描绘得道与形神合一。",
+    "application": "补充道教象征与文学阅读能力。",
+    "uncertainty": "骑羊真人等具体典故待考；不能转成飞升操作或身体效果保证。",
+    "related": [
+      "清静经",
+      "坐忘论"
+    ],
+    "source_url": "https://zh.wikisource.org/wiki/%E5%A4%AA%E4%B8%8A%E8%80%81%E5%90%9B%E5%85%A7%E8%A7%80%E7%B6%93",
+    "revision_id": "2489658",
+    "source_paragraph": 12
+  },
+  {
+    "id": "neiguan-13",
+    "book": "neiguan",
+    "title": "内观纲要",
+    "path": "正文\\neiguan-13.txt",
+    "sha256": "208cce4514f666de536fe7cc74b549d7bb65eb355565ebc1791931689950f912",
+    "review_status": "reviewed",
+    "quote": "外藏萬境，內察一心",
+    "explanation": "将内观概括为收摄外缘、内察一心与明静常住。",
+    "application": "可讨论从外界评价转向辨认自身感受，但不照搬闭目修炼程序。",
+    "uncertainty": "忧患永消、是非莫识为原文理想，不能要求现实中失去判断或情绪。",
+    "related": [
+      "清静经",
+      "坐忘论"
+    ],
+    "source_url": "https://zh.wikisource.org/wiki/%E5%A4%AA%E4%B8%8A%E8%80%81%E5%90%9B%E5%85%A7%E8%A7%80%E7%B6%93",
+    "revision_id": "2489658",
+    "source_paragraph": 13
+  },
+  {
+    "id": "neiguan-14",
+    "book": "neiguan",
+    "title": "学习与修心",
+    "path": "正文\\neiguan-14.txt",
+    "sha256": "e1d939c9ecdeba9aeb4d2d3ef338f10322ec0660f3e27aefe0834ce8c65a30be",
+    "review_status": "reviewed",
+    "quote": "吾非聖人，學而得之",
+    "explanation": "托老君之口强调学习与受持，并以心统摄千经万术。",
+    "application": "承认学习需要反复实践和核对。",
+    "uncertainty": "托名发言不证明历史老子亲作；不能把只重心解释为不必读书。",
+    "related": [
+      "清静经",
+      "坐忘论"
+    ],
+    "source_url": "https://zh.wikisource.org/wiki/%E5%A4%AA%E4%B8%8A%E8%80%81%E5%90%9B%E5%85%A7%E8%A7%80%E7%B6%93",
+    "revision_id": "2489658",
+    "source_paragraph": 14
+  },
+  {
+    "id": "dingguan-01",
+    "book": "dingguan",
+    "title": "传授框架",
+    "path": "正文\\dingguan-01.txt",
+    "sha256": "79f217719d1e5f98d5a026746049f589134d65bb2282a2ea7e6db61861432d4b",
+    "review_status": "reviewed",
+    "quote": "天尊告左玄真人曰",
+    "explanation": "经首以天尊告真人建立宗教传授场景。",
+    "application": "识别经典的叙述身份与文体。",
+    "uncertainty": "不是可据以验证历史作者或现实传承的证据。",
+    "related": [
+      "清静经",
+      "坐忘论"
+    ],
+    "source_url": "https://zh.wikisource.org/wiki/%E6%B4%9E%E7%8E%84%E9%9D%88%E5%AF%B6%E5%AE%9A%E8%A7%80%E7%B6%93",
+    "revision_id": "2076031",
+    "source_paragraph": 1
+  },
+  {
+    "id": "dingguan-02",
+    "book": "dingguan",
+    "title": "舍事与观心",
+    "path": "正文\\dingguan-02.txt",
+    "sha256": "093901a8a3dec426e5143c93a016fedc6b609219f4c8009f4b458d9647578050",
+    "review_status": "reviewed",
+    "quote": "內觀心起",
+    "explanation": "从舍事安坐进入观察念头，包含强烈的除念要求。",
+    "application": "只借鉴减少不必要干扰的思路。",
+    "uncertainty": "不照搬外事都绝为断绝工作与人际支持，也不要求强迫消灭念头。",
+    "related": [
+      "清静经",
+      "坐忘论"
+    ],
+    "source_url": "https://zh.wikisource.org/wiki/%E6%B4%9E%E7%8E%84%E9%9D%88%E5%AF%B6%E5%AE%9A%E8%A7%80%E7%B6%93",
+    "revision_id": "2076031",
+    "source_paragraph": 2
+  },
+  {
+    "id": "dingguan-03",
+    "book": "dingguan",
+    "title": "动心与照心",
+    "path": "正文\\dingguan-03.txt",
+    "sha256": "7428e1100a98ee6507bc117a0b1b24788201fb6717d2e50aa235e12000da12f4",
+    "review_status": "reviewed",
+    "quote": "唯滅動心，不滅照心",
+    "explanation": "区分扰动之心与照察之心，定并非失去觉察；也警惕凝滞住心。",
+    "application": "与《坐忘论》收心、真观对读，说明安静不等于麻木。",
+    "uncertainty": "昼夜勤行是原经宗教要求，不制定剥夺睡眠的练习。",
+    "related": [
+      "清静经",
+      "坐忘论"
+    ],
+    "source_url": "https://zh.wikisource.org/wiki/%E6%B4%9E%E7%8E%84%E9%9D%88%E5%AF%B6%E5%AE%9A%E8%A7%80%E7%B6%93",
+    "revision_id": "2076031",
+    "source_paragraph": 3
+  },
+  {
+    "id": "dingguan-04",
+    "book": "dingguan",
+    "title": "渐进与日用",
+    "path": "正文\\dingguan-04.txt",
+    "sha256": "460c2321e5dcef905dfe5c6fcb0791fcc1929af9f438147f445b73f00d7f7e15",
+    "review_status": "reviewed",
+    "quote": "勿以蹔收不得",
+    "explanation": "承认初学收心反复，主张在行立坐卧和涉事中渐渐调熟。",
+    "application": "一次注意力分散不等于失败；可以返回当前一件事。",
+    "uncertainty": "千生之业属宗教时间观，不把持久痛苦解释为修行不足。",
+    "related": [
+      "清静经",
+      "坐忘论"
+    ],
+    "source_url": "https://zh.wikisource.org/wiki/%E6%B4%9E%E7%8E%84%E9%9D%88%E5%AF%B6%E5%AE%9A%E8%A7%80%E7%B6%93",
+    "revision_id": "2076031",
+    "source_paragraph": 4
+  },
+  {
+    "id": "dingguan-05",
+    "book": "dingguan",
+    "title": "宽急得所",
+    "path": "正文\\dingguan-05.txt",
+    "sha256": "447dffc76b9d940550a4b756233842408f002f4d9239df0fd12727035f3b470e",
+    "review_status": "reviewed",
+    "quote": "若束心太急，又則成病",
+    "explanation": "既不束心过急，也不刻意寻求喧闹和多事，以调适说明定。",
+    "application": "发现越逼自己放松越紧张时先减轻要求。",
+    "uncertainty": "气发狂颠是古代描述，不据此诊断；出现不适应停止练习并求现实支持。",
+    "related": [
+      "清静经",
+      "坐忘论"
+    ],
+    "source_url": "https://zh.wikisource.org/wiki/%E6%B4%9E%E7%8E%84%E9%9D%88%E5%AF%B6%E5%AE%9A%E8%A7%80%E7%B6%93",
+    "revision_id": "2076031",
+    "source_paragraph": 5
+  },
+  {
+    "id": "dingguan-06",
+    "book": "dingguan",
+    "title": "定慧与不急求",
+    "path": "正文\\dingguan-06.txt",
+    "sha256": "5dc8dd1f092f0fbc1eca5a481107040588b4ea8e5e402c723514b7a93210f0d9",
+    "review_status": "reviewed",
+    "quote": "勿令定中急急求慧",
+    "explanation": "用水镜随物显形作喻，认为慧不能用急切追求强行取得。",
+    "application": "为思考留出空间，不以一次练习是否顿悟评判自己。",
+    "uncertainty": "不承诺冥想会产生超常智慧或特异能力。",
+    "related": [
+      "清静经",
+      "坐忘论"
+    ],
+    "source_url": "https://zh.wikisource.org/wiki/%E6%B4%9E%E7%8E%84%E9%9D%88%E5%AF%B6%E5%AE%9A%E8%A7%80%E7%B6%93",
+    "revision_id": "2076031",
+    "source_paragraph": 6
+  },
+  {
+    "id": "dingguan-07",
+    "book": "dingguan",
+    "title": "异象与业",
+    "path": "正文\\dingguan-07.txt",
+    "sha256": "4a9ef61405e77e215fcc3ede569878541574586c25997a47387c88a5675ee004",
+    "review_status": "reviewed",
+    "quote": "所見天尊、諸仙、真人",
+    "explanation": "原文把定中所见放在邪与祥的宗教框架解释，继而谈消业得道。",
+    "application": "仅用于理解历史修持观念，不用于判断用户见闻真伪。",
+    "uncertainty": "不证实鬼魅或神仙显现；若现实中困扰，应回到安全、睡眠和现实支持。",
+    "related": [
+      "清静经",
+      "坐忘论"
+    ],
+    "source_url": "https://zh.wikisource.org/wiki/%E6%B4%9E%E7%8E%84%E9%9D%88%E5%AF%B6%E5%AE%9A%E8%A7%80%E7%B6%93",
+    "revision_id": "2076031",
+    "source_paragraph": 7
+  },
+  {
+    "id": "dingguan-08",
+    "book": "dingguan",
+    "title": "得道七候",
+    "path": "正文\\dingguan-08.txt",
+    "sha256": "ac3e0320c2bcddea3a779e4a49097a89ed343b8c8632251db26da07a82bbfacd",
+    "review_status": "reviewed",
+    "quote": "夫得道之人，凡有七候",
+    "explanation": "依次列定心、病销、复命、仙人、真人、神人、至人七候。",
+    "application": "辨认道教成仙阶序，与《坐忘论》的修持结构比较。",
+    "uncertainty": "宿疾普销和延数万岁是宗教宣称，不作疗效或寿命承诺。",
+    "related": [
+      "清静经",
+      "坐忘论"
+    ],
+    "source_url": "https://zh.wikisource.org/wiki/%E6%B4%9E%E7%8E%84%E9%9D%88%E5%AF%B6%E5%AE%9A%E8%A7%80%E7%B6%93",
+    "revision_id": "2076031",
+    "source_paragraph": 8
+  },
+  {
+    "id": "dingguan-09",
+    "book": "dingguan",
+    "title": "证候与自称得道",
+    "path": "正文\\dingguan-09.txt",
+    "sha256": "078f5700bc5729306fb4e6755b917a4a86cd9edf52c05e1204f9f4870a7af8f0",
+    "review_status": "reviewed",
+    "quote": "自云慧覺，又稱成道者",
+    "explanation": "在本经七候框架内质疑只有口头慧觉而无相应表现的成道声称。",
+    "application": "可以类比主张需要证据，但必须明确只是类比。",
+    "uncertainty": "不能据七候判断真实健康状况、修行等级或人格价值。",
+    "related": [
+      "清静经",
+      "坐忘论"
+    ],
+    "source_url": "https://zh.wikisource.org/wiki/%E6%B4%9E%E7%8E%84%E9%9D%88%E5%AF%B6%E5%AE%9A%E8%A7%80%E7%B6%93",
+    "revision_id": "2076031",
+    "source_paragraph": 9
+  },
+  {
+    "id": "dingguan-10",
+    "book": "dingguan",
+    "title": "结颂与息知悖论",
+    "path": "正文\\dingguan-10.txt",
+    "sha256": "5c67b35791331d17fd9540f7cca03855c8664b76403a1d611b836d5cabf7726e",
+    "review_status": "reviewed",
+    "quote": "起心欲息知，心起知更煩",
+    "explanation": "结颂指出为了息知而再起心可能更烦，最终归于性空之知。",
+    "application": "留意对控制思想的执着，不把每个念头都当任务。",
+    "uncertainty": "种性、性空与佛教术语关系需专题研究；不简单宣称两教相同。",
+    "related": [
+      "清静经",
+      "坐忘论"
+    ],
+    "source_url": "https://zh.wikisource.org/wiki/%E6%B4%9E%E7%8E%84%E9%9D%88%E5%AF%B6%E5%AE%9A%E8%A7%80%E7%B6%93",
+    "revision_id": "2076031",
+    "source_paragraph": 10
+  },
+  {
+    "id": "yinfu-01",
+    "book": "yinfu",
+    "title": "观天执天与杀机",
+    "path": "正文\\yinfu-01.txt",
+    "sha256": "d15b6719d3240f3f066f33a0994071bfcb41bcfcd46febb8ec6020e0d651e3fb",
+    "review_status": "reviewed",
+    "quote": "觀天之道，執天之行",
+    "explanation": "上章从观察天地运行谈行动，涉及五贼、心机、三要以及变化中的生成和破坏。",
+    "application": "讨论观察条件、把握行动时机；不得把杀机解释成个体灾祸预告。",
+    "uncertainty": "五贼、三要解释存在注家分歧；圣、尅等来源字形保留。托黄帝名不证明黄帝撰写。",
+    "related": [
+      "清静经",
+      "坐忘论"
+    ],
+    "source_url": "https://zh.wikisource.org/wiki/%E9%BB%83%E5%B8%9D%E9%99%B0%E7%AC%A6%E7%B6%93",
+    "revision_id": "2616477",
+    "source_paragraph": 1
+  },
+  {
+    "id": "yinfu-02",
+    "book": "yinfu",
+    "title": "三盗与相互资取",
+    "path": "正文\\yinfu-02.txt",
+    "sha256": "706315fcd39a2f340dfaeec96e71df31cb1812abc9a785efda1dc9d91e0c4cf5",
+    "review_status": "reviewed",
+    "quote": "三盜既宜，三才既安",
+    "explanation": "中章描述天地、万物与人的相互取用，以适宜解释安定。",
+    "application": "分析资源消耗与补充之间的关系，不把盗解为现实偷窃许可。",
+    "uncertainty": "不把食其时转为具体医学处方；君子小人是文本评价而非人格测定。",
+    "related": [
+      "清静经",
+      "坐忘论"
+    ],
+    "source_url": "https://zh.wikisource.org/wiki/%E9%BB%83%E5%B8%9D%E9%99%B0%E7%AC%A6%E7%B6%93",
+    "revision_id": "2616477",
+    "source_paragraph": 2
+  },
+  {
+    "id": "yinfu-03",
+    "book": "yinfu",
+    "title": "专注与恩害转化",
+    "path": "正文\\yinfu-03.txt",
+    "sha256": "262764f006f8a32405360297c7e68fcf29fa292cd90362de44cdaf47951b509e",
+    "review_status": "reviewed",
+    "quote": "恩生於害，害生於恩",
+    "explanation": "下章并置感官专注、利害转化、自然静寖与阴阳变化，最终提到八卦甲子。",
+    "application": "讨论同一选择的收益和代价，避免只看一面。",
+    "uncertainty": "瞽聋句不可据以概括残障能力；禽之制、三反、性余等待注疏对勘。八卦甲子不是完整排盘算法，不能据此新增占断能力。",
+    "related": [
+      "清静经",
+      "坐忘论"
+    ],
+    "source_url": "https://zh.wikisource.org/wiki/%E9%BB%83%E5%B8%9D%E9%99%B0%E7%AC%A6%E7%B6%93",
+    "revision_id": "2616477",
+    "source_paragraph": 3
+  }
+]

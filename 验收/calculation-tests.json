@@ -1,0 +1,56 @@
+{
+  "passed": 11,
+  "total": 12,
+  "results": [
+    {
+      "name": "观梅古例：辰年十二月十七申时得革、初爻动、变咸、互姤",
+      "status": "passed"
+    },
+    {
+      "name": "整除取八与六",
+      "status": "passed"
+    },
+    {
+      "name": "六爻变动各仅翻转一爻，体用位置正确",
+      "status": "passed"
+    },
+    {
+      "name": "64卦上下卦对照本地周易原文",
+      "status": "passed"
+    },
+    {
+      "name": "紫微官方公开例2000-08-16寅时女命",
+      "status": "passed"
+    },
+    {
+      "name": "按古籍独立算命身宫、文昌曲、左右辅：十二月与十二时组合",
+      "status": "passed"
+    },
+    {
+      "name": "古籍甲年正月初一子时：寅命、丙寅火局、酉宫紫微",
+      "status": "passed"
+    },
+    {
+      "name": "闰月十五与十六分月，同时公农历输入相等",
+      "status": "passed"
+    },
+    {
+      "name": "晚子时整日换日：普通日、月末、除夕与公历年末",
+      "status": "passed"
+    },
+    {
+      "name": "流年以农历年首为代表，十天干四化随结果可复核",
+      "status": "passed"
+    },
+    {
+      "name": "拒绝缺时辰、未确认时间制、无效日期、伪闰月与不支持范围",
+      "status": "passed"
+    },
+    {
+      "name": "重复调用配置稳定，不受外部全局变更污染",
+      "status": "failed",
+      "error": "Expected values to be strictly deep-equal:\n+ actual - expected\n... Skipped lines\n\n  {\n    body: '文昌',\n    chineseDate: '庚辰 甲申 丙午 庚寅',\n    copyright: 'copyright © 2023-2026 iztro (https://github.com/SylarLong/iztro)',\n    earthlyBranchOfBodyPalace: '戌',\n...\n            brightness: '庙',\n+           mutagen: '',\n-           mutagen: '忌',\n            name: '天相',\n            scope: 'origin',\n            type: 'major'\n          }\n        ],\n...\n            brightness: '庙',\n+           mutagen: '科',\n-           mutagen: '',\n            name: '太阴',\n            scope: 'origin',\n            type: 'major'\n          }\n        ],\n...\n            brightness: '不',\n+           mutagen: '忌',\n-           mutagen: '科',\n            name: '天同',\n            scope: 'origin',\n            type: 'major'\n          },\n          {\n"
+    }
+  ],
+  "limits": "验证固定规则的计算一致性，不验证术数预测有效性；独立手算覆盖命身、昌曲辅弼和一个紫微五行局例，不是对全体杂曜的独立证明。"
+}

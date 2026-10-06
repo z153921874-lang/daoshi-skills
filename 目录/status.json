@@ -1,0 +1,40 @@
+{
+  "updated_at": "2026-09-23T12:12:13.485517+00:00",
+  "enabled": false,
+  "status": "distribution-unverified",
+  "books": {
+    "zhouyi": {
+      "total": 69,
+      "reviewed": 69
+    },
+    "neijing": {
+      "total": 162,
+      "reviewed": 162
+    },
+    "meihua": {
+      "total": 124,
+      "reviewed": 124
+    },
+    "ziwei": {
+      "total": 89,
+      "reviewed": 89
+    },
+    "laozi": {
+      "total": 81,
+      "reviewed": 81
+    },
+    "zhuangzi": {
+      "total": 33,
+      "reviewed": 33
+    },
+    "qingjing": {
+      "total": 2,
+      "reviewed": 2
+    },
+    "zuowang": {
+      "total": 8,
+      "reviewed": 8
+    }
+  },
+  "pending_ids": []
+}

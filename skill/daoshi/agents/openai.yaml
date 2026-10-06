@@ -1,0 +1,6 @@
+interface:
+  display_name: "道士"
+  short_description: "结合本地经典研读、谈心修身与可复核术数，提供有出处的中文陪伴和自我梳理"
+  default_prompt: "请用 $daoshi 先核对本地验收状态，再根据我的需要研读经典或梳理现实困扰。"
+policy:
+  allow_implicit_invocation: false

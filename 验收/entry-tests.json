@@ -1,0 +1,32 @@
+{
+  "tested_at": "2026-09-24T00:53:51.103776+00:00",
+  "passed": 5,
+  "total": 5,
+  "results": [
+    {
+      "name": "离线简繁检索返回道德经第四十四章",
+      "status": "passed"
+    },
+    {
+      "name": "可按编号读取完整经典，不受个人服务关闭影响",
+      "status": "passed"
+    },
+    {
+      "name": "未验收入口拒绝个人计算，不消耗输入形成卦象",
+      "status": "passed"
+    },
+    {
+      "name": "有待研读项时不能生成发布凭据，状态不变",
+      "status": "passed"
+    },
+    {
+      "name": "篇内复核和版本层次未验收时，发布闸门明确阻止启用",
+      "status": "passed"
+    }
+  ],
+  "source_sha256": {
+    "skill\\daoshi\\scripts\\entry.py": "eaf900ff8ffa8e7a434861d8c7f205cdc80b84effa51e549adb02e16b32bc48e",
+    "tools\\audit.py": "42e1ba35f248673a8c8711f7db214b72948739aa536d29a9697b44e6897b4a10",
+    "tools\\library.py": "f7e0e4e2e6655179f1c96dfe497e5732fd28962b5e709bde8ba54681d7b7774a"
+  }
+}

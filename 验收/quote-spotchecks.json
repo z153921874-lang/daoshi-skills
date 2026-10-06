@@ -1,0 +1,215 @@
+{
+  "checked_at": "2026-09-27T00:37:24.615653+00:00",
+  "method": "会话中直接打开原文上下文并逐项核对引用和解释；清静经正文及附言已全文核对",
+  "checks": [
+    {
+      "id": "neijing-1ea78903cc",
+      "book": "neijing",
+      "chapter": "至真要大論七十四",
+      "status": "passed",
+      "reviewed_sha256": "822f3cf4a5bd2f54724f8f3c7b3cdbe653803b22c5cc17b250ca0ef900411491",
+      "quote": "時有常位，而氣無必也",
+      "assessment": "时有常位而气无必紧接胜复之动时有常乎气有必乎之问，后分初气至三气与四气至终气，并说有胜则复无胜则否；笔记保留时位及条件，未宣称能按季节诊病预测。"
+    },
+    {
+      "id": "neijing-dfba2fabfc",
+      "book": "neijing",
+      "chapter": "移精變氣論十三",
+      "status": "passed",
+      "reviewed_sha256": "47c67f96102a346c86b73265604e8a94aae6036be09894cbb9df20e87c305975",
+      "quote": "數問其情，以從其意",
+      "assessment": "数问其情以从其意在篇末治之极于一的问答中；全篇先讲今世祝由不能已，再论色脉。笔记没有截句证明咒术或心理疗法有效，也未将闭户变成隔离控制。"
+    },
+    {
+      "id": "neijing-3c95cc3c1a",
+      "book": "neijing",
+      "chapter": "小鍼解第三",
+      "status": "passed",
+      "reviewed_sha256": "400897024ade6384db189c6b8e85067c7262edcf1524221f1663845ddd9ae22d",
+      "quote": "神者，正氣也。客者，邪氣也",
+      "assessment": "神者正气也客者邪气也是逐句解释九针十二原的神客在门；笔记将此限定于篇内释义，并指出徐疾释义与素问针解不同，没有把全书所有神字一概改释成同义。"
+    },
+    {
+      "id": "zhouyi-fa1ecee64a",
+      "book": "zhouyi",
+      "chapter": "乾",
+      "status": "passed",
+      "reviewed_sha256": "cb8436836a10695aa228fec65c807b8fb7301203e8f084d3e15d3e5efd500c88",
+      "quote": "與時偕行",
+      "assessment": "引文在乾文言终日乾乾解释中，篇章也论进退；笔记阶段性解释与上下文相符，应用未承诺成功。"
+    },
+    {
+      "id": "zhouyi-2f6728f6cb",
+      "book": "zhouyi",
+      "chapter": "坎",
+      "status": "passed",
+      "reviewed_sha256": "83c0528a63af512b90f32adf1a858ac0aa54a178a6566d9fa3c3b1afac840935",
+      "quote": "求小得",
+      "assessment": "求小得确在坎九二；笔记把险中小进转作现代行动比喻，未断现实灾病。"
+    },
+    {
+      "id": "zhouyi-319b2bff7f",
+      "book": "zhouyi",
+      "chapter": "謙",
+      "status": "passed",
+      "reviewed_sha256": "3a9049e3065fe7cd03f71dce9a1db20f59e689cc84d50b6b5d869d09b54bf918",
+      "quote": "稱物平施",
+      "assessment": "称物平施出自谦大象裒多益寡；笔记解释谦和平施，没有混入自我贬低。"
+    },
+    {
+      "id": "laozi-166c51f79e",
+      "book": "laozi",
+      "chapter": "八章",
+      "status": "passed",
+      "reviewed_sha256": "e9bcdcea57c4f69a22062395b9b6e3518b107ff4539c98e516466526c2ccef88",
+      "quote": "言善信",
+      "assessment": "言善信在居心与言正事动诸善中，水利物不争为全章主线；现代沟通应用已分开。"
+    },
+    {
+      "id": "laozi-494c9df3fe",
+      "book": "laozi",
+      "chapter": "四十四章",
+      "status": "passed",
+      "reviewed_sha256": "e5c11524b7b7095b96553a004da072e0432d79da262be792769399e4afc2d15e",
+      "quote": "知足不辱，知止不殆",
+      "assessment": "全章名身货得亡与知足知止相连，笔记准确说明代价和取舍，未要求忍受不公。"
+    },
+    {
+      "id": "laozi-94782ebf7c",
+      "book": "laozi",
+      "chapter": "六十四章",
+      "status": "passed",
+      "reviewed_sha256": "19f7e5f46851d91e62039a2e1834669d3d99360698c106377fa020f0a12463bd",
+      "quote": "慎終如始",
+      "assessment": "慎终如始位于几成而败之后，笔记同时包含萌芽与收尾，未把无败事变成现实保证。"
+    },
+    {
+      "id": "meihua-dbc9a8b3df",
+      "book": "meihua",
+      "chapter": "年月日時起例",
+      "status": "passed",
+      "reviewed_sha256": "c3868cf205f9da0ade27fdfb1cb2298912f64b52b32b85f28eb3fc8a045ba416",
+      "quote": "年月日為上卦",
+      "assessment": "逐项核对年支、月日、时数及取余，笔记与原式一致；额外历法边界另标工具规则。"
+    },
+    {
+      "id": "meihua-9b478449f0",
+      "book": "meihua",
+      "chapter": "觀梅占",
+      "status": "passed",
+      "reviewed_sha256": "14a1932252ff16a2d25c40da8c810f4f14cc17a72b39adc795431b4d40dc5879",
+      "quote": "初爻變咸，互見乾巽",
+      "assessment": "34取兑、43取离及1爻变咸与原文相符，互乾巽未倒置；计算通过不等于伤人故事应验。"
+    },
+    {
+      "id": "meihua-acab1fe92c",
+      "book": "meihua",
+      "chapter": "心易占卜玄機",
+      "status": "passed",
+      "reviewed_sha256": "2919ec555d758836dcb286163206c3a2a803ca2928510d4abab2238e4729c77f",
+      "quote": "且兌之屬，非止女子",
+      "assessment": "原文反问异日同卦能否照搬折花踏花，笔记表达同象非唯一，未将原书伪装为现代科学批判。"
+    },
+    {
+      "id": "zuowang-6d705aecb2",
+      "book": "zuowang",
+      "chapter": "信敬",
+      "status": "passed",
+      "reviewed_sha256": "a5681652f42dac101862328d5deb69573c594e1f83c7ef7eb9ec535fc1533b7a",
+      "quote": "加之勤行",
+      "assessment": "勤行在信敬后，笔记说明持续实践；把绝对信仰与得道保证标作原宗教语境。"
+    },
+    {
+      "id": "zuowang-e6ea0fd294",
+      "book": "zuowang",
+      "chapter": "簡事",
+      "status": "passed",
+      "reviewed_sha256": "a1f67f9f8c48780636793586a7e03a81f3485582a911bf0cc1bc1f69d1ac33e4",
+      "quote": "知其閑要，較量輕重",
+      "assessment": "闲要轻重去取为简事本义，非要非重才绝之；笔记未要求停止必要工作生活。"
+    },
+    {
+      "id": "zuowang-5b047712b7",
+      "book": "zuowang",
+      "chapter": "真觀",
+      "status": "passed",
+      "reviewed_sha256": "f8285894688d6f71228bc4c48b55f1f7c22c5ffcb33810ccf364c1984d646d4c",
+      "quote": "何因未渡，先欲廢船",
+      "assessment": "废船反问针对衣食人事不可先弃，笔记把维生和执着得失区分，未用后段业命观责备求助者。"
+    },
+    {
+      "id": "qingjing-6df5b33e1a",
+      "book": "qingjing",
+      "chapter": "正文",
+      "status": "passed",
+      "reviewed_sha256": "14d3d3f8f8c167277042b6be127114969f6350a0befb9855d4554b386c698c98",
+      "quote": "真常應物",
+      "assessment": "正文已全文读核：清浊动静、遣欲遣空、常应常静、执德与烦恼层层相接。引文真常应物原字无改；简释未抹去应物。"
+    },
+    {
+      "id": "qingjing-38f3323db3",
+      "book": "qingjing",
+      "chapter": "附言",
+      "status": "passed",
+      "reviewed_sha256": "0b9539df331c28afb7249bfe9ffca2c673d946c059126413cdbda7e25c1ea3df",
+      "quote": "悟解之者",
+      "assessment": "附言已全文读核：葛玄传授、左玄护持、正一功德三段，未误算成老君正文。悟解之者确出正一段，护佑标为信念。"
+    },
+    {
+      "id": "ziwei-a4c5e93fbc",
+      "book": "ziwei",
+      "chapter": "太微賦",
+      "status": "passed",
+      "reviewed_sha256": "22422f30edd68dfebbe39db5d4a85945e8257f878154b0c9ddb66befa2402508",
+      "quote": "不可一概論議",
+      "assessment": "开头不可一概论议与后文庙旺制化相连，释义准确；不因已抽查三处将整书标读完。"
+    },
+    {
+      "id": "ziwei-17a508724e",
+      "book": "ziwei",
+      "chapter": "增補太微賦",
+      "status": "passed",
+      "reviewed_sha256": "70f9c577bb686b2b726c5d71a834244dac714757ab1aa13e924ce3090135c506",
+      "quote": "凶不皆凶，吉無純吉",
+      "assessment": "凶不皆凶吉无纯吉与后文君子也有羊陀、小人也有科禄权相参，笔记反对以星定人格符合该条件限制。"
+    },
+    {
+      "id": "ziwei-d8b33b7607",
+      "book": "ziwei",
+      "chapter": "問天機所主如何？",
+      "status": "passed",
+      "reviewed_sha256": "ada4add2eb2beca50b10e3d8b0f7284d00c93f1717411b489d4c9c00787571d1",
+      "quote": "有靈機應變之志",
+      "assessment": "应变之志为答问原字，木善才艺和庙陷说明可在各段复核；男女评价矛盾已标示。"
+    },
+    {
+      "id": "zhuangzi-22b8acd90c",
+      "book": "zhuangzi",
+      "chapter": "養生主",
+      "status": "passed",
+      "reviewed_sha256": "f9fdebda1ede022c9466d0e46fafa236a48df4fecf0394d26d8b9e3cecf59202",
+      "quote": "每至於族，吾見其難爲",
+      "assessment": "每至于族吾见其难为紧接庖丁长期熟练的叙述，后面确有戒惧、视止、行迟，笔记没有把游刃有余误说成随意冒进。"
+    },
+    {
+      "id": "zhuangzi-86ec2799f5",
+      "book": "zhuangzi",
+      "chapter": "讓王",
+      "status": "passed",
+      "reviewed_sha256": "034c5d2f1860e4548057aa389d0e23b7d39374a5677b6b42ed84e59af6adc98e",
+      "quote": "不以所用養害所養",
+      "assessment": "凡外重者内拙位于瓦、钩、黄金下注比较，说明同一技能会受外在得失牵动；应用没有承诺只要放松即可成功。全篇最后扁子反思开导失当也已读入笔记。"
+    },
+    {
+      "id": "zhuangzi-66ef2d64ee",
+      "book": "zhuangzi",
+      "chapter": "至樂",
+      "status": "passed",
+      "reviewed_sha256": "b0564797cd104643ea923a53245b965bb20b7f9f40ef06dc7585c334ab4cde14",
+      "quote": "我獨何能無概然",
+      "assessment": "我独何能无概然在鼓盆故事中，明确承认妻子初死时曾悲伤；笔记没有把庄子曲解为从未哀痛，也不要求丧亲者停止悲伤。"
+    }
+  ],
+  "pending_books": [],
+  "scope": "八部书均已有抽查；不代表所有篇章研读完成或影印精校。"
+}

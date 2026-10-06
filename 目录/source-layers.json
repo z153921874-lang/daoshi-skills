@@ -1,0 +1,3298 @@
+{
+  "offset_unit": "LF规范化Unicode字符，start含end不含；不是UTF8字节偏移",
+  "method": "明确标记类型人工审定；具体出现位置按模式登记，未覆盖所有隐性校记",
+  "chapters": {
+    "laozi-cf3e220375": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "0c124dc1eb8178bb32f6d059180a47f8f4f09289cc65909bcc38500dc23dc899",
+      "spans": []
+    },
+    "laozi-5122001f59": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "188f5a9a8f22cb2a62348805c9ca00e6b35a4e86a48bbe12dfd5cec18ec3e9e7",
+      "spans": []
+    },
+    "laozi-8aa81cf588": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "e4e95e2e1228acf0939b24ba4cbd4bf29566752ffdf2362f4359a39bb183a506",
+      "spans": []
+    },
+    "laozi-a078242fd8": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "3087768a581733013ba07a3fb986e042c2b3ace946d6afdc70167032a30340db",
+      "spans": []
+    },
+    "laozi-55afead5b8": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "a4b939654dbd152201798c24bc54bad1f330d522ec43da56bda187c4ffc4ca06",
+      "spans": []
+    },
+    "laozi-947903316a": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "acd9dee0ab39dcd0727015774ee13bb64ec8d081fef071be8981ddc5d5e789cd",
+      "spans": []
+    },
+    "laozi-e90e01e9ea": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "a85cf5d5fb3db7b15ba77e40b331a8d566085bd77a2ad832c6772dfbb2117c4c",
+      "spans": []
+    },
+    "laozi-166c51f79e": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "e9bcdcea57c4f69a22062395b9b6e3518b107ff4539c98e516466526c2ccef88",
+      "spans": []
+    },
+    "laozi-73affaa9c1": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "f14255aa5ce0caa306b4b9bf127ad062c47454ba6c75e2cc7685509cb198a482",
+      "spans": []
+    },
+    "laozi-b68f791ffe": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "a91e05e36c55479a03bea979659815ca3add5cec258ac463c8417d4448bc62d1",
+      "spans": []
+    },
+    "laozi-92f3f13757": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "f68a7abc5c65a174d7430261759fdd110e4158419c5f40250cab791652299cf8",
+      "spans": []
+    },
+    "laozi-f795d4fe05": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "f8c56a5b7702970ea9299f37eacb726235331cb45f925c4849dc7612d0480782",
+      "spans": []
+    },
+    "laozi-e26cdb6f37": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "b4706a40f3651e33849d50fc26b9794045755b5f818181e0832f206a7419fce5",
+      "spans": []
+    },
+    "laozi-2e4acb1cf6": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "34c9a2f77de5777c91ce022dd11ce253f353e84e8025e6bdfa79bd8ffd92b12c",
+      "spans": []
+    },
+    "laozi-3516869fd6": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "c457c23c1c95ddb913ead53c6f9602c6d0b780efbde2da2a3698f3868e18fc38",
+      "spans": []
+    },
+    "laozi-1beb465308": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "00be70ff481f9a7209d3ae8cd25898cd46b12fb2122cdb1c01eb35cccacb9f22",
+      "spans": []
+    },
+    "laozi-735853e920": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "0ab6a1a64ff27d1480b42e3b67b13aa15faaea27723f97766880cc67599b17b3",
+      "spans": []
+    },
+    "laozi-4298737cb7": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "cfa5aa29b4f3e654a1ff50f5a6f7a7a165e10ee81534e9c2dbc8373c053c64aa",
+      "spans": []
+    },
+    "laozi-0c3487445b": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "f444ae8002d0060927c62a168b2b79bc74526ecc2fd10dcd66d6c329aadeccab",
+      "spans": []
+    },
+    "laozi-12c91518d9": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "f74dee55d29807720057bb7c94345818b9523b9c3a2a8721e08d3e63a941b049",
+      "spans": []
+    },
+    "laozi-64c3a71a4c": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "2c32b5e1056b4d8bfedc339e5d8072e4b34b915d047f7cd5de543c2e36591405",
+      "spans": []
+    },
+    "laozi-6e4c260838": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "7e03e0007584b703761f8af84a25c5472a9d7c091cfe35dcda871b687aa735f9",
+      "spans": []
+    },
+    "laozi-f2f2e935ac": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "08bb176de79be8b90f88a651639e78fd2088d5be3fb3125523ac24b305324491",
+      "spans": []
+    },
+    "laozi-4b3b442db4": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "2fd572fbb07f0e5fc21a4681004824bc925739d2c16a45c1fa08545e76ba8837",
+      "spans": []
+    },
+    "laozi-12f777b266": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "00d5141858dd4f9a22174ec689d9c914b903d56dde56edaace9a677cbf34748f",
+      "spans": []
+    },
+    "laozi-3cfb687d4b": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "05778221d594a7de21ebbb87d8c02bd87fbe034893c6bbc9bfb26152548b4862",
+      "spans": []
+    },
+    "laozi-95a46264b0": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "21700f8314ae8a4160de2cafc760cce50c1516da2ee0320e56e37d5216d734f1",
+      "spans": []
+    },
+    "laozi-f48120038e": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "d760eed294ee987f6262791350ef029a1efb2eaaeb743850ab055ed9207eeaab",
+      "spans": []
+    },
+    "laozi-41a3933d38": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "b065714b40389c51c827844617e4434b7558970c93f392b33a3f6c11d6849b5c",
+      "spans": []
+    },
+    "laozi-5e9954e061": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "7d01858de1cce529d69b75c77e3933a529e28a127ddfc83b0f49e5c6d8c90728",
+      "spans": []
+    },
+    "laozi-cbb95bc7f8": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "82394f992733bb0b19b9d71136e1c721cc29a305d410b444881d1a46e1b81529",
+      "spans": []
+    },
+    "laozi-00c81c6b02": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "9ab3764c6dd7a9070b0ff5586818ebfc7fa0f4526b9d0673bf4f25c5ec4a7b6d",
+      "spans": []
+    },
+    "laozi-76595d307a": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "47d4cbe6b94039140bb9a8234b85e843dfb69d0cbfc5d035edc1522fd53ebc65",
+      "spans": []
+    },
+    "laozi-4345ade625": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "31a85ec202b96cd66239dd8bec2feab8d9a45151bcf5d2065d07159d4694dce8",
+      "spans": []
+    },
+    "laozi-da97d22727": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "c8b048d00b1d1876ad1fb9ffb6cae5844b225f98f38ae9370513fac662d883a4",
+      "spans": []
+    },
+    "laozi-78b8e389ef": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "744b370d25f1fae3b43da64d02e3a4025541bcc8756cb5760970f0593758488b",
+      "spans": []
+    },
+    "laozi-b262abb43b": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "9f1af7f027aa4956f4af5b2e4f3349a6305e16001ceb724b903be7bb6ae8903d",
+      "spans": []
+    },
+    "laozi-66593af582": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "06ff64f143ade8a14698277dad861e710b12d00d3ddd5b0dd57eaee8a963894c",
+      "spans": []
+    },
+    "laozi-88cf38ae7d": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "65158433b8f6eb28435764c182aad8e01dda68a593b6ea443dc16ac132ced31a",
+      "spans": []
+    },
+    "laozi-ddb5bbf610": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "772565aa695cca8e499a0669f3d115d1289c5b0d7e12cdce87114fad7e6f203d",
+      "spans": []
+    },
+    "laozi-ef6f1a4a3c": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "38061c0c04809b3c19217d2c3eb4d9f2e678476b9133dff790443c61caea9681",
+      "spans": []
+    },
+    "laozi-45b02c368c": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "8061f200744fd4749dd4445710a1dc8a50d3a2738d2930600d79965aee4a42a8",
+      "spans": []
+    },
+    "laozi-0bb97f57fb": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "9263754a4f1893fdcb7ab573c66ef7c8dbcaee39632d4d1b5419ce13606fb6eb",
+      "spans": []
+    },
+    "laozi-494c9df3fe": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "e5c11524b7b7095b96553a004da072e0432d79da262be792769399e4afc2d15e",
+      "spans": []
+    },
+    "laozi-059273e893": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "2acb1ccb8ac632867ea60122e6b9419a63298d26ee8922bbe2bd2f265590e239",
+      "spans": []
+    },
+    "laozi-0cb3312b8b": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "5bef807fe6d9086f9d489edf59908b18ffa8e95c4c5641e0180cfdb6189ecb84",
+      "spans": []
+    },
+    "laozi-e45ccbb61b": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "eb960c5aaa1e1dc5b0d257c99660b0a17eb833536f3489ae2a146772bdaa3976",
+      "spans": []
+    },
+    "laozi-8ab8758b1b": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "5171c5a20e1e603a2e62018117888701c02a970ae22f57bed7fe37a20a541264",
+      "spans": []
+    },
+    "laozi-df2280b87a": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "c1d4a0b39072eb9077b77e6a3254d01ce4e0eed08291bc76d328b8bc15ee767d",
+      "spans": []
+    },
+    "laozi-423f2b39f3": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "a22d47aeaf46b283d0c22501a7e3feadf504a79023186200d19c01d03571030c",
+      "spans": []
+    },
+    "laozi-18b108862b": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "ea8d4e5af1079c6bce7fa825350db5986cf2fb1a710de7c2d7ae3486ba0589b5",
+      "spans": []
+    },
+    "laozi-b2ad18269f": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "649b4846b0cabd9342bea11b24f52059cb8258c014fac13e77da23d095276fff",
+      "spans": []
+    },
+    "laozi-ce4fec5262": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "06662dc84a53fdfb7f49bcc8a42c33fe6f1ffa0291c4d6b47ecf1b7baad8fd8d",
+      "spans": []
+    },
+    "laozi-033fd3c82d": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "353641cbf09f2b3f088bc1a54a6b2b6d5be76328abde98eada975b5f592949e0",
+      "spans": []
+    },
+    "laozi-b24c582204": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "da9f35f56ce6c4fc8f0ebedef0dc3bdc2da84a4fdea41c1a27cb34560c749dcd",
+      "spans": []
+    },
+    "laozi-afc0ba029a": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "0626575809351efe18af046f8cbf65f6a46b32bfe1f86317012bf8149f517220",
+      "spans": []
+    },
+    "laozi-fda3f95736": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "7a7e988d35b0a64aa362cfc52d01e232edf5ab042774f461b0e9b39e09b7dd03",
+      "spans": []
+    },
+    "laozi-509cd9b6b5": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "9f2d7e337fd30f31a865962bbeab76020c603fb8ba73f0b4297b38e3a835d8c2",
+      "spans": []
+    },
+    "laozi-6bb165a66e": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "588da703debd4c382b1bb78d1dfd4705093b7d207e13f5439724721310535f46",
+      "spans": []
+    },
+    "laozi-21354b4228": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "d80ed7ead4361166f1675018523ae80c34d80c235e42b87709c1898157ddd03f",
+      "spans": []
+    },
+    "laozi-cf51d94b80": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "7242b0e7192f4d5d2bb8b85b201a040472a50eca45d8edd724ee7d65cfa386cb",
+      "spans": []
+    },
+    "laozi-21ff8aa0c5": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "bae09e602f07af6672d6abd09e422ffde2f5b7f121b75070b792dadfa6bdbc63",
+      "spans": []
+    },
+    "laozi-e8d0f07fb1": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "0381f3c191fbad0cb4225a4d118b470bfc8ef9ea03ef33d2802d8270abf3ab4a",
+      "spans": []
+    },
+    "laozi-94782ebf7c": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "19f7e5f46851d91e62039a2e1834669d3d99360698c106377fa020f0a12463bd",
+      "spans": []
+    },
+    "laozi-82806e2d5d": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "4e25e628b2732bfb2273a3aea93a48a79f9afb52fcf5bf0e0290a31dad6f0d6a",
+      "spans": []
+    },
+    "laozi-44546c4558": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "28fe9a3cd1533240e907153433816b5cf788d353ed7c030bc4f13d7287296cc0",
+      "spans": []
+    },
+    "laozi-2a07750d0e": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "99eb43ebcd3027e3345e03c42a53a81874de7bd04adab645eca36457b159aff2",
+      "spans": []
+    },
+    "laozi-80c60ad5a7": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "de91f44d9074338320443e774330101c0f3ecc69fe55f0b1ca49d62b33a729c7",
+      "spans": []
+    },
+    "laozi-410a4ce045": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "d0f30a423c9b5808556135ac92d4a40dc1c852762ee2d8b5d682e92fbe18aafd",
+      "spans": []
+    },
+    "laozi-2e467d67e1": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "6202ba39ba33c5159f6f703adf354d8d783eab8ef5af5107e6448b2cac8b69c2",
+      "spans": []
+    },
+    "laozi-6686d79c7d": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "0fee3ff7ceb76434118051b5fae7428b78c90d324e65f4a9b2b7555b5fb65296",
+      "spans": []
+    },
+    "laozi-6815c69ed6": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "718ec41c3a97ea3949cb1236bf4d4e6b04007910cd3f408e9f47ed9e9c8383b0",
+      "spans": []
+    },
+    "laozi-79a301bc5b": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "155b9d1943ae6b2cb49b656695a887ca4857750b6ad0a5b0ae3209c394eaf5d5",
+      "spans": []
+    },
+    "laozi-d04b318bf1": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "86d2c2f9febb254b1be7d0ee6055e6e07fea49c66b71dec303184e06078d4257",
+      "spans": []
+    },
+    "laozi-de9077268c": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "8642ddf605c9ce24c68efce21d00ced4a1c2f3169a8779fa3d88c1b24b39a5f5",
+      "spans": []
+    },
+    "laozi-4610296bbb": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "e05b67e0ec3f775e0b73eab992f41121dae00bde72bb8313910e6e8e20d4928d",
+      "spans": []
+    },
+    "laozi-088d7b12ee": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "c7fece146af8c39a0746f43728430ee0a996f8f056fc865a0de23c73daf57075",
+      "spans": []
+    },
+    "laozi-1c575064de": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "b91d20abc4af38e9d2de03f31ff339d1d6001a0285136ac885887ea0a488d39a",
+      "spans": []
+    },
+    "laozi-6742b726f0": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "57f2aec19fdabd587b1a16498b736689b50afec9cd95e97e2e19374490fe8626",
+      "spans": []
+    },
+    "laozi-0f83accec7": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "375d123e5d7dcdf0279a87e6c64a23342a2c9621504e5d1a211d9e84b1b468d0",
+      "spans": []
+    },
+    "laozi-349763888b": {
+      "notice": "本索引为王弼本经文；尖括号旧注已在提取时分开，原始合刊另存，未声称研读全套王注。",
+      "source_sha256": "7dd6d2d3ac1b06f32a174a475e54756ed0665059de054cbad1c2a6488f134981",
+      "spans": []
+    },
+    "meihua-834b48ef2c": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "23a44ce2f265f3c2357bd9c5789b2193b896c1f864f3ba440d5ccdb3e992a56f",
+      "spans": []
+    },
+    "meihua-68e0020cce": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "e2fdc7654c9656dbba236f2d1e5375f7f65479534847cba319c4513e91200d90",
+      "spans": []
+    },
+    "meihua-e5da7f0c0e": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "0bdf2d6a0aada475763b81db67ab2c48fdd4e2666981c4cf4d49a62cf3ef3ed0",
+      "spans": []
+    },
+    "meihua-f70f4987f8": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "d185fda0c435e000056b11f026e8fcc08b48436812a9c97e573f0281e857de3f",
+      "spans": []
+    },
+    "meihua-ad14db9902": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "f4792485f86ce827f1b8a67a546f853884cbd5b8ab5105c5f4fe7508a6b78584",
+      "spans": []
+    },
+    "meihua-f1cf864fb7": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "b40d220dca51f4aab8bc7f4714ef988c0469f59b6c94db7c3410fc24f28361e2",
+      "spans": []
+    },
+    "meihua-4a7739660e": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "d36f73b7dfaeed2cfd660f92dce21d32b7f24b03f8d5bba79f0c3ad870784ef2",
+      "spans": []
+    },
+    "meihua-94724dbe14": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "57e577ee95fb5ea6d390668cd5e76ea2ad8f6ce99fae15efb40ec9cd893b0675",
+      "spans": []
+    },
+    "meihua-6f16e505a8": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "b7de159268a0c719cffd8d6687dda11bcf0a958460dfba1e95439a71ed3d0476",
+      "spans": []
+    },
+    "meihua-35183e6ad9": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "01768241c640f9088e4a1fb012eb87d55b6770847238006ec7074e89f24c1de7",
+      "spans": []
+    },
+    "meihua-5283990188": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "974ab18c97955871464d66c09b53cde9a280e4c731115e433c133a65b7d62ebb",
+      "spans": []
+    },
+    "meihua-2ce1f3de97": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "c2a5947f1888ce19ab25c7f605f76efc332b2e5d25ab4388982041182a5d44d1",
+      "spans": []
+    },
+    "meihua-b58cba6b8d": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "19760b81b3f109af40f836af6cb48de400b42d1612de28ba4926715fc7cdb411",
+      "spans": []
+    },
+    "meihua-93a32e8e3e": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "d28e34c208e5525cb2b7a35c114b6823c049e799eba3b8e77170e27069bd3067",
+      "spans": []
+    },
+    "meihua-ab269db180": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "285f72a39bda55eb0d4bdd7f14ed779b9b4727490f3ebaf75e54f397fa35e4ac",
+      "spans": []
+    },
+    "meihua-dbc9a8b3df": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "c3868cf205f9da0ade27fdfb1cb2298912f64b52b32b85f28eb3fc8a045ba416",
+      "spans": []
+    },
+    "meihua-ae68adb409": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "524c5572932c1abe4690cdd46ef6b5e78c87051ec3f62da933ebbb993f49225c",
+      "spans": []
+    },
+    "meihua-4cc5c17c2d": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "e78a7255037fd77dec155f4f54c933f9a68ec29eb573bbd627fe1b98a165a396",
+      "spans": []
+    },
+    "meihua-c614d46e7d": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "39db01d1ed17586f14736cba359877128982ca965f94b059f8f3e9f754da394c",
+      "spans": []
+    },
+    "meihua-9b0b51fa5a": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "dbd06e0734c172a7aa5b6855614131b11b443212485e6576ce5f31374aa084b8",
+      "spans": []
+    },
+    "meihua-fbbc304cf8": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "32796d67186aed8ff2dfb48d982fa788aa359e9ee62f5538edaf737326dc615e",
+      "spans": []
+    },
+    "meihua-6ff9724fa3": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "2d3bee01053f1d214f2286bb12504d15178c8bc8e47a3d745501f5ea35c6b79b",
+      "spans": []
+    },
+    "meihua-ee92513662": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "d8a10ae263383939317b977ce8d6bbb51395d0760fc7b70060a9ee34090818f9",
+      "spans": []
+    },
+    "meihua-b2783f5379": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "406fae50ff548032b56687b9f37ebd3f43113a30874816ebff7d0180a0b9bf7a",
+      "spans": []
+    },
+    "meihua-2518b0b906": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "cc1d09c22e43dd20546f60da2819e3b15e1ac7372fc9fbfbc60db6579a44066c",
+      "spans": []
+    },
+    "meihua-aa83eb90b2": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "cae9d5473b64953f3c6a206b22ad1962b8cf7a572619d248a940b8d5ebe68b9d",
+      "spans": []
+    },
+    "meihua-629ef039f4": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "a6e7d389d55a1cfc5ec8cf0d889d2ff8a6cf45475a8ac651546e90931be886e2",
+      "spans": []
+    },
+    "meihua-3094bce918": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "f08d0af83675079b6071992b45be2f3e7ab22fb212512d3de2c33564cccb4fc1",
+      "spans": []
+    },
+    "meihua-51a09cd46c": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "e4c079fcba567ecc7af262dbded35b331a4eff7dbb2afa2a3e5fb8f41a583837",
+      "spans": []
+    },
+    "meihua-9b478449f0": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "14a1932252ff16a2d25c40da8c810f4f14cc17a72b39adc795431b4d40dc5879",
+      "spans": []
+    },
+    "meihua-8695a6436b": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "109267f46808a09ed7a8eadd0bd575c360191d9927a4381539267bff6efd1051",
+      "spans": []
+    },
+    "meihua-a63c4b423f": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "7c5a133d1d16d9f4ecb4357586de2ed53aafd37d1ce414c02d27d875334cf41e",
+      "spans": []
+    },
+    "meihua-5c63a0aa85": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "a400eb3ea3d8a0096cbf8111ccc322ded33a151ab966e82e6a450cd08e2640ee",
+      "spans": []
+    },
+    "meihua-f89770c51c": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "cbc7eb541895ad82bc9240c635a75786a77b6a4fcdb438fb167f293838d5d099",
+      "spans": []
+    },
+    "meihua-bd5f580318": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "daa4d18d94bbc416e1b015bf210ccd5bea054a21be0da76e8ac14382bb32ee09",
+      "spans": []
+    },
+    "meihua-61646ef997": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "23994cee56ce7b6e6b69bb00fdd57bab4ce6d0c889eab07e86b2233f952dfb20",
+      "spans": []
+    },
+    "meihua-c4e1f894b1": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "82cc88b31063c1aa2d6dd9219379e52a2f9a7df75d19d49a7d41e3e62b44447b",
+      "spans": []
+    },
+    "meihua-77406e5f62": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "7b161c9ecf03b67dba27ba98558db958c19a9ede0ca3004c495593d1cf3790c6",
+      "spans": []
+    },
+    "meihua-17d375b7ce": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "943b0bf1f07be0cbaba36bdee83e5b52b15428c7d0a132401f62d3d80db4f0d5",
+      "spans": []
+    },
+    "meihua-91ba3abbe4": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "0787b3c7d4c0ba65e0f4989d283f9789938de080391e1ddbc2f69276acdbc6f7",
+      "spans": []
+    },
+    "meihua-32a8273ff8": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "4138f77c82371aa022822de3b0cf18231be2439327b825e1da0d35b6a05bab81",
+      "spans": []
+    },
+    "meihua-363f53b790": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "9022a171902af87344e9e955d4d593a1ae1131e120b22b9118ad0f731f743792",
+      "spans": []
+    },
+    "meihua-b193d96159": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "6a38861d018bbbc7c282ad89d43d393d7a2ce93c856463204e4c6bcc024b2f44",
+      "spans": []
+    },
+    "meihua-4ea9bb7a30": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "8cd523730058bd051065ccdd46172fe00cad053ba9407b9bb66d48c5da9e0f76",
+      "spans": []
+    },
+    "meihua-b22615f1aa": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "e8cebe842738841d0bfd44a3bdb2645928f0926292aa640462acd575d0a0dc65",
+      "spans": []
+    },
+    "meihua-823834b83d": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "a4dbca5a199fbf6350da91b6a5980534d6f7e0184be0b8ff0d5c61a68ca3d1aa",
+      "spans": []
+    },
+    "meihua-890a5f9482": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "267a407c2b3a82c5392e082d7d1514f69a0b3b3e481464835fb75e42f717a219",
+      "spans": []
+    },
+    "meihua-c2c5712ab2": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "14dbb4d4babdb0eaad1d4ae9695ad480bba1fc0e6678065d7f27eb0586156088",
+      "spans": []
+    },
+    "meihua-419067cb58": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "ffe5d426f75913f10f8942cf8b729a674fca38e878a1f9908881725adad9a5f1",
+      "spans": []
+    },
+    "meihua-67ce6c2ff9": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "2b59f51ef073c1c4f3bf0a4133846862270e02d2aaa7035d2614df0f2d83f3ab",
+      "spans": []
+    },
+    "meihua-8e3eea4552": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "58b928e39887d68c3658b4a8ef384ed741c24db603b8d193dfc2d8babfb85631",
+      "spans": []
+    },
+    "meihua-f4fe11cd76": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "363412c572fce064c9b0a70a216042a5aed8012d8d93189247d8a5943c9204cb",
+      "spans": []
+    },
+    "meihua-594aa3c40e": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "59385f6314b8dd068faa7cb3de5b29ec7509483fb767cbdab6022ab96b69415e",
+      "spans": []
+    },
+    "meihua-e99ede5a49": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "a141a4258645cb52d10a11a3e73a173171f91c95e5c47d1987f21a80f2ef7b2f",
+      "spans": []
+    },
+    "meihua-f50ab454bf": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "610911ab1ed5b5ce6883918231dcaacc6e0a3d0c4d57301da59b780c0da20a7e",
+      "spans": []
+    },
+    "meihua-30e5f47515": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "2ddb2a5802e4aa9831473e59bf3003bc7dbb224fbce2ec5c4e9ad500370a158a",
+      "spans": []
+    },
+    "meihua-86af94932c": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "a5a8caa3a88f58b9ee52e785ee7c13c770ada5a0b5669d3188dada47b513de23",
+      "spans": []
+    },
+    "meihua-eedee5a272": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "fe611695e3eb3453ee5608d2d26fa6a8e5be12afca0a74aee076c4dfbe681678",
+      "spans": []
+    },
+    "meihua-43ef60f58d": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "2e1ccb5c937f156b96707e105a3f63b2e559adce7256e817e43c5cd514f0c023",
+      "spans": []
+    },
+    "meihua-0e1170a9d3": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "9331d50aa1a6e24c086c8cebaf3e438ad6aeba351d49af885c9ccd83084fe08a",
+      "spans": []
+    },
+    "meihua-afecd0423a": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "d14eb16c062c6ca1564747b4de52b1ef5da731f9db970210a18fea613a3c45f1",
+      "spans": []
+    },
+    "meihua-9131246758": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "cc69fe0e94ed5dbc4ef3a70f4891cf556fb861beef881737effc433e4cc6961b",
+      "spans": []
+    },
+    "meihua-a25bfa1c22": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "0c17320da9f9a3cd08a313a5865aeb3a6eaf48b3f2d51844697efae73884641b",
+      "spans": []
+    },
+    "meihua-fce01a8615": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "b02eb36b8c9764a74a739fc36b13d9f3cde3a892b9c9ea6012aff5bb983af1e2",
+      "spans": []
+    },
+    "meihua-ac42de338e": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "d699e9a7cbde48a632417da069009b4b13c24d79b33f15a6decf1b280b7c5de0",
+      "spans": []
+    },
+    "meihua-1781259488": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "f08900dac35cd204da0f78431efe61d9957ef62ff895e55932290facb54e59fa",
+      "spans": []
+    },
+    "meihua-529058a0f5": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "815f7cbbe4c702168cfc29b47b6894daa4370646d0fd9f03282d714864fbb38c",
+      "spans": []
+    },
+    "meihua-28d70e6c33": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "76f6d5639975ccfd470e5256d0945c64f25733fa3d163b1d22fb6aaac97e84f8",
+      "spans": []
+    },
+    "meihua-9df05f4760": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "756dee1b949e67cab285a96f3409736eacb0d52aeb7894e4994d52b2e86497fd",
+      "spans": []
+    },
+    "meihua-52a34e5ee9": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "bbf1a7554b3efe8113848ca64d8344f4c238f45f83e983c07b8ed81721f43c0b",
+      "spans": []
+    },
+    "meihua-186fa04c12": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "015c2f61ce04808535f49ce4be2838d10d496acd7a53c1c289a377a54df01e6c",
+      "spans": []
+    },
+    "meihua-ea66f9e36b": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "711819860d5ed4fe79a9e8a8e6237d14af28bfbcbd284d0cf9748c96a53582da",
+      "spans": []
+    },
+    "meihua-acab1fe92c": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "2919ec555d758836dcb286163206c3a2a803ca2928510d4abab2238e4729c77f",
+      "spans": []
+    },
+    "meihua-0f12922c7e": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "5734afda179f0c976584a005a7ac4faff18c5ccc90f97fa7736deee617ba7aef",
+      "spans": []
+    },
+    "meihua-ab48bd4064": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "7b65cff29c82449cf3439f260d71ba29ad893a657757fd60215019a460c7bf67",
+      "spans": []
+    },
+    "meihua-553d64c07d": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "1f9e3d94392f78708eacc36c226e45cf45cb0c82759e2063ab07c5aedb170174",
+      "spans": []
+    },
+    "meihua-38df93eb07": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "38cdd005ca8ef18ff413151c7ab77c9eb00d362e2374b4c8b7a00541551223c3",
+      "spans": []
+    },
+    "meihua-ff083240f8": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "ffdcb45e5c91ac0ba255ed189315eb48a19e35815d73e76e8ce21b476d9fb111",
+      "spans": []
+    },
+    "meihua-4b94928681": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "9c79b5e12e31f76beb4ca7245d81b32bcb3a087a714d14a2dd85e76ab756e033",
+      "spans": []
+    },
+    "meihua-7c8b1f59bd": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "b8b8e0694cb3134446b890c4c5adb6d6a359a075c3a7786234ca3c8ad9ea6439",
+      "spans": []
+    },
+    "meihua-5113c28615": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "f5554eba67bf3206d7197145cb14b66a0aa9a8f6bed06f7b75b804bac4eda966",
+      "spans": []
+    },
+    "meihua-947a2c8b22": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "09144a8ccf09e764f4f6542ac107fea972afcd6def62429033a259568c0fca8b",
+      "spans": []
+    },
+    "meihua-ab69957395": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "3edd1ffa441f532ea1530209195928f31dbf3772ca635cc08697bc94659780a2",
+      "spans": []
+    },
+    "meihua-052cc63891": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "e21acb5c717d820d4ed9a7595c6b3e343a4889f945356cf7c2e7fcf11e248849",
+      "spans": []
+    },
+    "meihua-efdb4948ee": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "c5e52f44165787968f7e3daf603e3af8a0af24a0ee40524c144b6ee07681072f",
+      "spans": []
+    },
+    "meihua-ced7056f94": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "c1403da132839aa6cf422477e6ca27ad12fa6f6a513620f2d3b9d140730bff66",
+      "spans": []
+    },
+    "meihua-36889e02fc": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "0510d3026f4700139c020aacb8bb6fdb68fb7fb94d741fcdd4fe6695af3aa980",
+      "spans": []
+    },
+    "meihua-84bde8cd22": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "330bf3673545c830dcf2a904d9930cd7a0766a2381dfb89562726992b9383446",
+      "spans": []
+    },
+    "meihua-6fce70ad5d": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "14d9f3b34b57918ba05c68c76768ad512ab497ca2e5a1a7d3beda684550affa5",
+      "spans": []
+    },
+    "meihua-05a65ccce7": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "299c38f1c8c20626eabeda9e6df8a52de4e3f4d0dbc0716a52eecb1ad32f3cf8",
+      "spans": []
+    },
+    "meihua-be773c31eb": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "15b57c2c658f5e53230a317192cae81c8072b13ecbe146a68ea5137d72324ed4",
+      "spans": []
+    },
+    "meihua-0ca76db00d": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "7c828c5ebc2bd598fb2cbb8eaea0134eb97acb4a51633ec448698f283d95ce0a",
+      "spans": []
+    },
+    "meihua-ed5f7ffcde": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "31fd0a2a25b9c67dec70778af95ccb4de51164eabcc65ebc6026541623c1b07b",
+      "spans": []
+    },
+    "meihua-2a243c487b": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "0b58d453cb188ced7475a239f057b13d380923db4b34cdcadf4b77a22e139df4",
+      "spans": []
+    },
+    "meihua-5d76ce159e": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "f17cfb88a99454919b97d6c7875a79080e00f410e6fb36ea4267922238dd9189",
+      "spans": []
+    },
+    "meihua-874bb2d611": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "71ac6dbad32880fc3cf56c5332b79f4a2500223aa6cc86aa6bde4c7209d8c419",
+      "spans": []
+    },
+    "meihua-02e072721c": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "007fff0d12a9ebbada1ba60e88e81e499a7afe326d483fe4f6a4177b5fd3eb16",
+      "spans": []
+    },
+    "meihua-18899a4002": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "d195f67ac65e4072da7b2dd3fdfef67731b7faaa1fe28dd7a3bddadbf38b4f53",
+      "spans": []
+    },
+    "meihua-2533bf9575": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "208a4343ffaba6b50f201b19a09bc771a76fdf82357f19b3e986e87e948a3ca7",
+      "spans": []
+    },
+    "meihua-7f74c71366": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "38514a72b2854b812899638a2bc70e24fc088927428493fd6889af3cb1c8f8e8",
+      "spans": []
+    },
+    "meihua-44be26b9c2": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "656c5862cf5868163b29c41024690dd488eba1169e693c94b0aec58e9d844f67",
+      "spans": []
+    },
+    "meihua-a1fd665998": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "d113775caee2188b1f7bed9e07fbfb874b3e56a8ea3499c947e492d0ea561b50",
+      "spans": []
+    },
+    "meihua-48dd964649": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "d2d09fc1bff963fce11e8ccf4de518baa2c9116d524ced50fd2253fe3fbdc105",
+      "spans": []
+    },
+    "meihua-50c7314d55": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "5062f63b99a6c82772c94ef57b2eb7ccefd690f321b90e6a79b8175dcb2e4f54",
+      "spans": []
+    },
+    "meihua-3ff4e31074": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "1029b12d69bdf0ef70fc10346a3aa1f0ff4cb993c62d11a984ee1fee67a0cedd",
+      "spans": []
+    },
+    "meihua-ed492264c8": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "62a0e8be3fc295e52ba02977c698c93e677fdbb4380a9753097a6798cd98c749",
+      "spans": []
+    },
+    "meihua-05ffc8feae": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "2638a3baa645a9d72fd6c989e65da521b0f03609c209b5b23deee9b507953488",
+      "spans": []
+    },
+    "meihua-18b4049e73": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "09e90bf1d562abd3bc139bf29c73fb65f6842fed108d19456883e9c2a115faab",
+      "spans": []
+    },
+    "meihua-aa073722ab": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "28b4225480a8afe3e756296e5e535fd3b60bf87746d4a6a7ee00e9cf36b01f11",
+      "spans": []
+    },
+    "meihua-6c9b7bc35c": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "69c2a77cfb8a348aea160b7afd3e40a21f743cc381829fa32cb6df98eed49ed9",
+      "spans": []
+    },
+    "meihua-7ac902bd04": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "d3e53d1adf70ef813135dafa8c8cc372336a6e21d6912a8ff397c3294cbe062a",
+      "spans": []
+    },
+    "meihua-d846181e2c": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "55d916f9820bef3b74cba108b37838a1fdee2f0b0a9869f43ad264aea15f050e",
+      "spans": []
+    },
+    "meihua-45ab3bf109": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "b796770d332362af50ab7a651a16bec5ca7f2b85598acbe08531b13aeb0a749c",
+      "spans": []
+    },
+    "meihua-4ac401f066": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "93b744f060d03d528bfa7dae3b2c52b8e53778d76efef6f93e2c78b158fcfdda",
+      "spans": []
+    },
+    "meihua-187cbff6ac": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "c8469677a3010b618d9ff1b084a9a1fbcfe5b6cd12cd46346ee7a40c3b30ca64",
+      "spans": []
+    },
+    "meihua-e76a2a6a30": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "5fba0970a2ff770829cb8993d9792f60c3c283b9a58acd35e97a7f62873129f6",
+      "spans": []
+    },
+    "meihua-01f048376d": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "6a92c5cbab65c666b8b4f9822d823fbe790e586b88d92c93f0f1ed9c1630407c",
+      "spans": []
+    },
+    "meihua-656da5a4b8": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "de337fc2e500d74ca95552d8608ce28c43fa8345a0a6b662b23d3add6e2df439",
+      "spans": []
+    },
+    "meihua-6244b6c6a6": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "a714ee1e22fa12e281948b089feabb41ff8d798e18f4f4b6b6cf2476a33e23fe",
+      "spans": []
+    },
+    "meihua-778385050f": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "a176f8245edaf48990df0a943952f17f5271129cad52348f32f2a3f59bebd9fb",
+      "spans": []
+    },
+    "meihua-9ff1458cff": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "af316e5d5ecc018d98941a6fe2a7c459c4693183d9f9517922f475afb61c73e7",
+      "spans": []
+    },
+    "meihua-c5d26921fe": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "28781351f46cfd393522e6260ed34c26c5d4e4384e86ede8447ed0995feba707",
+      "spans": []
+    },
+    "meihua-6ee81839e8": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "efabf98c49fef7e06514ac37b02aee5bfdb261f2b0a0c2711601cb47ba37e9e7",
+      "spans": []
+    },
+    "meihua-992004460e": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "3e2805236693111e5cf47afef7652d1704c9fea3ccc4b9206d0b085e4a5b0416",
+      "spans": []
+    },
+    "neijing-06392dca0d": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "32d06233edf8f0a6d1aab5172c32858ed8dc30c747f5f4dd0bd2548ab313a238",
+      "spans": []
+    },
+    "neijing-4c215c98f6": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "a0644df31c27c119dd0d4192e3f52eacdaa1c349eb8c21fbe51cc94b45ad2047",
+      "spans": []
+    },
+    "neijing-07355e4e1e": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "fea304d3c282bd98fc77e8dd7cf81ba3a707c984a631b241dfe2e29a27f13cc5",
+      "spans": []
+    },
+    "neijing-337b2ec4e0": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "caeeaa4d1439f3ef477b7aa053bde17b61c5e2cc582cb4fd5d347b9b8c9bfb3c",
+      "spans": []
+    },
+    "neijing-53ee88fc0c": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "ed05af789800cc29c94f5813b35d2e5d7b70124de7e84ed09d9ec232c6b6263c",
+      "spans": []
+    },
+    "neijing-592b465b0b": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "ed8701c6c455dcd5c584bd6cd88abf67e85cf4699db2a3655286e67cb169c340",
+      "spans": []
+    },
+    "neijing-a818e2faef": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "67231247ccf8ba45cada88b13a3489a5ef5b16bd0e6c2c9e52a66e151d8748fa",
+      "spans": []
+    },
+    "neijing-8c37915302": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "df490ee19e88a46d8fa464284ddfb5c4ea52043ef4bc23cb99a891caa2755418",
+      "spans": []
+    },
+    "neijing-06b68dbeaf": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "cfbe0a47f790783c4a1ffe953ecef13c2a18db63c2cd433a4f473bc9d213533e",
+      "spans": []
+    },
+    "neijing-ce19dd0211": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "42530f00a0da0192a0c8f052792fe8d1d86b07f30f3d0b960d2d3755115eb9f6",
+      "spans": []
+    },
+    "neijing-f3d201c254": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "e5f2e2ba6070a8efb5b111e63649c149c4cd34546d5234be89eb81a457c99009",
+      "spans": []
+    },
+    "neijing-8d652bb732": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "d8504521242e098000fd5268c2dc01dc9d03aab6a66bfd8077a7ea1f8cc87c5c",
+      "spans": []
+    },
+    "neijing-f7de70d24a": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "cb52c38b7aa278c24a8623be2e06e3620c09616efe90979c697e749152c90662",
+      "spans": []
+    },
+    "neijing-6fcf50780c": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "7570dd03deb7d1497d60776d8b030febfdad40db6b83eab3ccc6b0ede5e1bfed",
+      "spans": []
+    },
+    "neijing-5a9165ec40": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "b2d8daf7973966dab3fe53fe2ac73550fbeb436b362e43a0e4957be045bd8593",
+      "spans": []
+    },
+    "neijing-7dd9b1d527": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "9a1ece7cb16dbbbcce11867f81149d2b7ea6fbe4b112ef78bf07da8b0d3ff821",
+      "spans": []
+    },
+    "neijing-f5ecb2563c": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "b995e9b50540f0a8cd441ff225d4e4b38a2fe4e6f0371e42527bbaa8a648003a",
+      "spans": []
+    },
+    "neijing-5cd6866df8": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。 本页包含遗篇层，须与新校正失篇说明区分，不当作无争议的早期完整原文。",
+      "source_sha256": "15fcc74ef831df4b447410348c8b03a3bc6fa45a8353d5dd24dc2c117bc984d7",
+      "spans": [
+        {
+          "label": "来源标为新校正的旧校语，不是经文",
+          "start": 0,
+          "end": 14,
+          "line": 1,
+          "text": "（新校正云本篇亡在王冰之前）"
+        }
+      ]
+    },
+    "neijing-ed4b1df18a": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。 本页包含遗篇层，须与新校正失篇说明区分，不当作无争议的早期完整原文。",
+      "source_sha256": "f7adda3048c23b4e34e2aa69dbd5c90e969e6eafc8c3e6a7af4091bb8fa7c50c",
+      "spans": [
+        {
+          "label": "来源标为新校正的旧校语，不是经文",
+          "start": 0,
+          "end": 14,
+          "line": 1,
+          "text": "（新校正云本篇亡在王冰之前）"
+        }
+      ]
+    },
+    "neijing-fa988cccd2": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "f032629e632a27a52fadc2951a03db41cd04da2a0843cc6a48880d9e118434ce",
+      "spans": []
+    },
+    "neijing-a7f57cc1e8": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "8e7b595f70c2c1cd7f887c531792f158a983df7f5dd74b6b88b2e959a0ac508e",
+      "spans": []
+    },
+    "neijing-c2014d9593": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "639bad0ed18492006e6611d5fc34f079eb258959fba8e3002d7a79fd09c4031e",
+      "spans": []
+    },
+    "neijing-6fb99605bb": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "254819530cc8b8346943e8b473cc9a8c7e390f9fdc8953bd1ccbe712750c712d",
+      "spans": []
+    },
+    "neijing-1ea78903cc": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "822f3cf4a5bd2f54724f8f3c7b3cdbe653803b22c5cc17b250ca0ef900411491",
+      "spans": []
+    },
+    "neijing-881e153101": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "fc1e26cc722c0007fef2aed28e401906734436455594c1d101759204eb00e7ab",
+      "spans": []
+    },
+    "neijing-929923a981": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "1640b72514fb0a716ab58b9a88004ca88b2b30775cb9269c870bc26fb88ee05b",
+      "spans": []
+    },
+    "neijing-7d86f8df42": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "a7454283ab08f105a9a5cfee2ce4d3791551b8b43312a14cb8a53a58e1134fc4",
+      "spans": []
+    },
+    "neijing-3fade24afd": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "758423701fd227ffe2e15ffe85ab2e8d2a9a58ee66fe687b67f5a8c0a6d520ee",
+      "spans": []
+    },
+    "neijing-bbabf8d976": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "dc9b43c7db721759d4a34fb141bc404092515eacf83423fc4b697ba5d5e765b0",
+      "spans": []
+    },
+    "neijing-ed8d243984": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "4a6b430e0725f6808393f17d32d51fd9154e99e035c30f4ead9d586c0d69e496",
+      "spans": []
+    },
+    "neijing-6b8e001917": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "c8c179fca466527d11e9ad206c66c45bc2fe9ea0b9b7202102c16031a098f4e9",
+      "spans": []
+    },
+    "neijing-c4b50243db": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "ec12fd7af8b4185f8d17ef9ce4a911d7bf85287a8a6efd3ef139b268595de157",
+      "spans": []
+    },
+    "neijing-e5db267bef": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "c6008852b8e5367e80147e710e28509b969b9928d953374f45731d760f8dc45c",
+      "spans": []
+    },
+    "neijing-a4a52fbc17": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "2acb32ffea2090da4b0d53ba7dbbd7ac7bd16f730a2643f0e526db843f969cac",
+      "spans": []
+    },
+    "neijing-727a65feaf": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "b8c31b7b8a410adefe20a9531688c0048d7b4346fef1e0dc75f1957e9a97dd6e",
+      "spans": []
+    },
+    "neijing-32b9b9a659": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "83e09434e7106e7db05fc7593ede06e0a9b21e14a454c73ed34b26ee17a9a010",
+      "spans": []
+    },
+    "neijing-dd9679270d": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "2903901b1b1516580ba08f764b6f2d68dd1a32ab038b9a1bfe329f0ed558a5aa",
+      "spans": []
+    },
+    "neijing-5ae4c634c4": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "f84053ce702999e2bcbaf1ee869623f10c554703ddcc02b13b4c82027377aaa3",
+      "spans": []
+    },
+    "neijing-49cd320796": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "ef0e5f4e55ec90fc72888f41182fc70da6e762c8158034a9ae3c320335662987",
+      "spans": []
+    },
+    "neijing-a757eb02f3": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "f359e0c0872bb00ca29a45cd833534c5f8777d8a86a84bc6718daf74d0dc4c11",
+      "spans": []
+    },
+    "neijing-94fb56605d": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "086810abf1a69e39067990ee6a537b4e1577e45a47e564bff1f2b88986f23307",
+      "spans": []
+    },
+    "neijing-3277702d6d": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "e027b179ae92a76b188512940f900538951ccd502df8f0042be7ea3777066371",
+      "spans": []
+    },
+    "neijing-888b981eb7": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "18beaa54e8a222146333085a5db635f14d9a099bae4bd597cc9127f636dd1383",
+      "spans": []
+    },
+    "neijing-332b726b08": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "3da979375980c9634285ebc929aa61351e866a9451a0ed2eb5970f53275a083d",
+      "spans": []
+    },
+    "neijing-824b569ceb": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "b1c50931fbb410a3be21803cd8129935be443f68a513fa560e2e0b66cb5fce94",
+      "spans": []
+    },
+    "neijing-62c7800f40": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "296407b9abf1558827d1b52238b66241965971d47b9b428528ee8ec1d000da9c",
+      "spans": []
+    },
+    "neijing-aade68a95a": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "8fc6e6459e6d0b8c1a164926c1edcae7c79854831068974fde06b664c6c31ca0",
+      "spans": []
+    },
+    "neijing-399ba15738": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "689e2b95302370b39088ab0b15e65098c213f6fc1af4e784bf61fe816a0eb929",
+      "spans": []
+    },
+    "neijing-389699fcf2": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "5464996b66c6f78011b2dc096c3b219695ef5c804874926c6e485fea287f3a72",
+      "spans": []
+    },
+    "neijing-7df5c67191": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "d3690843aeb6a7f91413fa42d0a243f9b9b897ed0281c8cd685d9fb08a99bf99",
+      "spans": []
+    },
+    "neijing-36e78846b9": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "e6723ff9625150db2965572c49b906df48d093a8d6a477adaf4a348e0b879acc",
+      "spans": []
+    },
+    "neijing-c727f83d8b": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "c42e0fd45bfc9542421f381d4466d2c5849566e47a56d28d1d7af88758156201",
+      "spans": [
+        {
+          "label": "缺字或补字标记，未校定",
+          "start": 1996,
+          "end": 1998,
+          "line": 111,
+          "text": "【】"
+        }
+      ]
+    },
+    "neijing-34264b32b8": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "fb625bf1026b5d6f45e39013cc6fbd0c82973fca8e8c163f242b0ab3cf8db17b",
+      "spans": []
+    },
+    "neijing-0fa3cc9f6e": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "0c79346556b2ebbbe67b6e14340bfff0d65bf344db64e286341efcebbd0957a4",
+      "spans": []
+    },
+    "neijing-c7700af121": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "cfc0bad8ec2ea8448e2840519611ec1d4fc9497097750ac596e4a3fd3265e460",
+      "spans": []
+    },
+    "neijing-153eedd34c": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "ba2e0e8a23ac770a625914da5eb6b639ef824fa8379f66efa0511f1b2cb1eaa7",
+      "spans": []
+    },
+    "neijing-b48ec83080": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "b2896f04551c02607d852de41281c9bf408656de91f5992338221840afaec974",
+      "spans": []
+    },
+    "neijing-dc5aa6f5bc": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "efffde99e2116934ae03fd015a2c2de1594ae2258b03110212becf414c02e140",
+      "spans": []
+    },
+    "neijing-c5eeec88f0": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "821cf35cc8bea9ad81fb9e7f8fb144dc33d50962095502659fc0db99f4e5c0fc",
+      "spans": []
+    },
+    "neijing-d31b29882d": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "b729a1060b18406ff4cf4d9cdd89c6a06274142e2bacf651ab4dc2fb7e9e8947",
+      "spans": []
+    },
+    "neijing-b23f72d044": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "97087a8ef8f78404df769a5beec98b5c9752a7b5d933659a19db1d2b5e052a5e",
+      "spans": []
+    },
+    "neijing-d90f438d49": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "3bb0af8247dcbec8debd6da9fc6f4bbac1ee6df94c50c3c6030bc06f2b352c5c",
+      "spans": []
+    },
+    "neijing-f69f82c4b0": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "d89f6bb67c9f072fb3c743d3c0b6f17a1027a56351321e113a75b4bb5989a817",
+      "spans": []
+    },
+    "neijing-badc9eeda8": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "b3267de8179aff05bdc2e7acfa47a4851e5544eb7120e35e14b611944aec8331",
+      "spans": []
+    },
+    "neijing-0cd5f509e1": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "ee2804b3a26c18bf52272b8f4d287b728f89ee633f3189ab7bc7abec435192dd",
+      "spans": []
+    },
+    "neijing-19f98116f5": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "7a4a5f087786b2f00ffdf94daec66430a579122923e970dde535e6f42cff8690",
+      "spans": []
+    },
+    "neijing-bff28dd9ed": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "e70663e5d7bc92712c9c9b8375f9f244035b151e1a39997505745489945fc6e3",
+      "spans": []
+    },
+    "neijing-bc39a29965": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "52422b1fb33968978c5a36fee93706602e4c73c4b3a0478ef68c821d1d5ec5d0",
+      "spans": []
+    },
+    "neijing-045aacde61": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "2fa4d0e72ad03d35a850aed81e7269a5c761eb8c6270adc1a214e9dbcbd13933",
+      "spans": []
+    },
+    "neijing-d393214c47": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "665777d4671f65e54cd9fc1ea531c3af36af9c8639b383bc720f46762d7831f3",
+      "spans": []
+    },
+    "neijing-4e8d3455c1": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "7c3b91cee489d7ee3faac1ca2985905df2a2272d5d7321904957cfec5221684c",
+      "spans": []
+    },
+    "neijing-15359130b9": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "2028a46de8c6884691ada01f2884618cb40986d19ed246f2d3e72cc32bf62963",
+      "spans": []
+    },
+    "neijing-0d0a0bfd2b": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "d0f9d6cf1290c65d28850e5f280edb3d72c86d9e5973f728785f227410af0be3",
+      "spans": []
+    },
+    "neijing-f7f680cfe3": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "5ef5b8944370ae6fa2126c3c78e7f3642a085e133cb219992d435737e49d2d14",
+      "spans": []
+    },
+    "neijing-d842b938d6": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "ca7c270d8f73551146342bbd0f1704d0f93e144f3ffd96a8ee37985c2db97483",
+      "spans": [
+        {
+          "label": "页面错简提示，注者年代未核",
+          "start": 699,
+          "end": 714,
+          "line": 40,
+          "text": "（*以下文義不屬，當有錯簡*）"
+        }
+      ]
+    },
+    "neijing-06c36f867c": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "38358314c53021d59b933f848cebbc529f8d7122a90015aee0993c05df295f2b",
+      "spans": []
+    },
+    "neijing-528b90f00d": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "55d6fb613970a44733909eac46c875b9f219c93ef8fd478a2f5cecbbd3666921",
+      "spans": []
+    },
+    "neijing-dfba2fabfc": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "47c67f96102a346c86b73265604e8a94aae6036be09894cbb9df20e87c305975",
+      "spans": []
+    },
+    "neijing-ed4540c4c1": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "39ce99a912ba581b60b1d017e38347334bf4d8d7cee75b816ba79f837aec1e74",
+      "spans": []
+    },
+    "neijing-91067dd877": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "6e9e858f291c84da6ffe22fead160f04859bca64dbb1b827cb4cd252c5a19a5b",
+      "spans": []
+    },
+    "neijing-60fee73bbf": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "a5c777e0faea6ac3f2a1c72f5b44beb358cfae619ac537cec43b79a0ff27821f",
+      "spans": []
+    },
+    "neijing-eb62a681e4": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "65f16a0cd04b78731f6243b2c77515d3e4896b6132da663f3e558814abc9a065",
+      "spans": []
+    },
+    "neijing-290c7503bf": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "7f9b84d4b8704108f25d94dfa5c4864f32b5700da707fa72db7381ee6879b343",
+      "spans": []
+    },
+    "neijing-3c95cc3c1a": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "400897024ade6384db189c6b8e85067c7262edcf1524221f1663845ddd9ae22d",
+      "spans": []
+    },
+    "neijing-ed787fc8b2": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "226612bae53328d2143f8e4389c9c81f5e9e287bb7586fe007d6a5fee3b6fd15",
+      "spans": []
+    },
+    "neijing-5959b06d8f": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "6340db227f5ba6d4ad640bde8c486511834d6584616c7560ec17636db066abec",
+      "spans": []
+    },
+    "neijing-0421804721": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "037807b8d747bc55f956bbacd8eee7e37b80a366b53242d9d49b0d9a58ee68ea",
+      "spans": []
+    },
+    "neijing-c4848d5ff3": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "a29f7874782e5c3d9f5628598da56fcc329f76cf7ea61a090a3c1eb8db5bd753",
+      "spans": []
+    },
+    "neijing-846ad32162": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "393dc0e7864a1f62faa898e7cc7b5191edee7757559677926bf28c0a5d691c9d",
+      "spans": []
+    },
+    "neijing-8f37d0a657": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "0286e89686767578ef4585b067fd061320ddf898973b34714194057043d03479",
+      "spans": []
+    },
+    "neijing-ea078069d0": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "4c61956660e5c1052ab1705a89286dca96f94f584be12f3f90f0a91aa145a149",
+      "spans": []
+    },
+    "neijing-9a3e8a94b7": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "82902759cdd765bc0355a254d66f4401134667d58765c7433aeb3c4ff20348c6",
+      "spans": []
+    },
+    "neijing-fe11a41661": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "79706b3e65699673114a1a0dba3f9a5f0a4cf6cdb563eb1e22249b83c8ec40da",
+      "spans": [
+        {
+          "label": "页面异文校记，注者年代未核",
+          "start": 693,
+          "end": 698,
+          "line": 13,
+          "text": "一作「上」"
+        },
+        {
+          "label": "页面异文校记，注者年代未核",
+          "start": 704,
+          "end": 709,
+          "line": 13,
+          "text": "一作「約」"
+        },
+        {
+          "label": "页面异文校记，注者年代未核",
+          "start": 870,
+          "end": 878,
+          "line": 13,
+          "text": "一作「次指外間」"
+        },
+        {
+          "label": "页面异文校记，注者年代未核",
+          "start": 1191,
+          "end": 1196,
+          "line": 15,
+          "text": "一作「腨」"
+        },
+        {
+          "label": "字形构件说明或音注，不与正文连引",
+          "start": 2304,
+          "end": 2311,
+          "line": 23,
+          "text": "〈硫，目代石〉"
+        },
+        {
+          "label": "字形构件说明或音注，不与正文连引",
+          "start": 2311,
+          "end": 2315,
+          "line": 23,
+          "text": "（音盲）"
+        },
+        {
+          "label": "字形构件说明或音注，不与正文连引",
+          "start": 3537,
+          "end": 3541,
+          "line": 31,
+          "text": "〈疒貴〉"
+        },
+        {
+          "label": "字形构件说明或音注，不与正文连引",
+          "start": 3541,
+          "end": 3545,
+          "line": 31,
+          "text": "（音頹）"
+        }
+      ]
+    },
+    "neijing-3fea04b042": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "4a56082d6579254e0405850c631ca97c9fffeb82e759c0a58db2ecad80b969a7",
+      "spans": []
+    },
+    "neijing-37adcd8e17": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "094aeb583a650a092a0b3cd412b0ed8e397ca996ac0dd39f33a375b2105e066d",
+      "spans": []
+    },
+    "neijing-27b4679cf6": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "f54331fab097094293695f7993a493d9192f53e1d8ae97d193a8fa43a5936f50",
+      "spans": []
+    },
+    "neijing-e336e0a08f": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "c64c115e6de462085d164044f6273a966ff363415d512ced72c9431f2b12e3c0",
+      "spans": []
+    },
+    "neijing-baa848d3e9": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "0a19c639897adfd43ab1dbf4fc2d41b7e273b7602c096cf16d5af1398dba7b96",
+      "spans": []
+    },
+    "neijing-2c73dafa68": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "399ae3d910dc992558382344fc35201f2b2f55a2ba6cf8e92d9a7324352aed61",
+      "spans": []
+    },
+    "neijing-6f53a833ff": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "8e50880a63113a61c607b29afb27a72397d2fea56bd00636ccb1354fe19708d6",
+      "spans": []
+    },
+    "neijing-11e1660975": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "35205b46dea5cfa65ca4d7e12d00ccb5219f8a5e4b423b87f9f0f9b527470c77",
+      "spans": []
+    },
+    "neijing-833e1eb5d2": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "e7d7a1bc675e3ae8a821d710a048b9004330ddf0a84eec674cf53851498982a6",
+      "spans": []
+    },
+    "neijing-2769af21d2": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "e5e6dd531701ba24ce2e372ee5b7be087aa567de64e89f41a9353eb6e9bea7ad",
+      "spans": []
+    },
+    "neijing-04cf2538bd": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "6ad61ea4c8a70d48bf3555783ee35ae0698e4415c737ca68a0bfbfa7bc1e28c7",
+      "spans": []
+    },
+    "neijing-d7a2d7598b": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "9c8c74acded0d0dab49573c686b04f85db76da37320c2b3182789452c51f6558",
+      "spans": []
+    },
+    "neijing-2fa4bbc2e7": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "9e47e510f3a0e8aa0095ba5b3e0a8238f3f6d1d9ee43da9bac489b85250aeb2e",
+      "spans": []
+    },
+    "neijing-a2b1297108": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "2be469b058aa0ea2ee4c08fcf44e98db04fc9dff84aa2be6fa572aa5792a7d89",
+      "spans": [
+        {
+          "label": "网页强调标记残留",
+          "start": 309,
+          "end": 315,
+          "line": 15,
+          "text": "==哀悲=="
+        }
+      ]
+    },
+    "neijing-6e244d7048": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "9d95a9e0f449c795a8092133b2d1088755e24ee26034ccdf2c6dbc71d79dddbf",
+      "spans": []
+    },
+    "neijing-ef729f79f4": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "3fdb474a890073dad76c5c11ec8d68b86bf4f7c2553b46b800b5010998859a2b",
+      "spans": []
+    },
+    "neijing-d6f303c602": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "67438f68e9fdd818f794b69a2f36e5c291efa355aa5dfdd4e1156cd7f526f1ca",
+      "spans": []
+    },
+    "neijing-b389064472": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "4fdf9003c62d5c2b507958409807ac30e482d4575197b71c4cd490461e099c2e",
+      "spans": []
+    },
+    "neijing-a18a618785": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "182c55daaebd3a8c14af95e64e4f48933063417d9044c29b842d6706ebf0d5cf",
+      "spans": []
+    },
+    "neijing-0feb43dc21": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "3c9be4e69342152d7cabd7f51ec2d472fbd2b57eb8b656b0e02f8ef9934d1fdb",
+      "spans": []
+    },
+    "neijing-b5f6a314d9": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "332140d9a749a23a0752978a040edeabd5562de24ae2910e9a1261eb98734b61",
+      "spans": []
+    },
+    "neijing-52af6bd67a": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "792a9af866095900d730e3a16a3d10764b7a39055bed6db1aa588f6aae6bd2bb",
+      "spans": []
+    },
+    "neijing-a6c45c1876": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "6961b6a8ecb249c74936285289e3737db60fc3cea269f129c45738009c57a6d8",
+      "spans": []
+    },
+    "neijing-db4d144e02": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "0b399fb17f53153723f024a43c5e83c10e7185d1cd27375a73aff4cece601148",
+      "spans": []
+    },
+    "neijing-8109370a29": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "07e2fcbc34cc41134de3c8bdc6b3d43c6f043611df8a6c40bba74e6f5ef91dc6",
+      "spans": []
+    },
+    "neijing-07de3532e9": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "c1d8ead8243d80f9aa66af670c8ff6195d89300fb9b38d1856ce43d352fc3120",
+      "spans": []
+    },
+    "neijing-84de31b86c": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "814f4812bee8b4617d830ea96e7c4a74c80d1bc54056a509fb0c068b7786841d",
+      "spans": []
+    },
+    "neijing-5a6a8cb6ed": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "6a1f8d5660d2d09f197dd52694ab563e35b16394fe236a7a6ffa81b7e29fbc49",
+      "spans": []
+    },
+    "neijing-bb6ac60d74": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "bbc25e4d31210faec9af08fa9156e15f88a7c796f9bbc9d08f9f3116ab8d9b87",
+      "spans": []
+    },
+    "neijing-b6472f6bfa": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "0e357a1216174a6daf49ef5ec5c1355bb962ccfd982276ae4d190b3c1bfc217d",
+      "spans": []
+    },
+    "neijing-d90f7f0397": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "b53b9acc5db5b1c1dfd8f438d96b07a7df6fe2c2877444be41b46c786ab8e72d",
+      "spans": []
+    },
+    "neijing-94919d595f": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "aa69e22dea26a9e7d3b2b9346a8a225382eedc8f54fefc183239c75a7ac32f93",
+      "spans": []
+    },
+    "neijing-b2ae23ee14": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "c3641bd59a71af0ed2011884a6b9de8086c8c369a6ca3cfda3f341671f26533a",
+      "spans": []
+    },
+    "neijing-262c87f9f8": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "c8c1ebfe3660ff3a6bc8c79e183ad0295cf9a4389ca92866840c1844fd87ab81",
+      "spans": []
+    },
+    "neijing-c0d7707fe6": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "e10326f960db16d64126fa9a11f55f2e77f55191e27261fa55993b4e40710948",
+      "spans": []
+    },
+    "neijing-917ae963ea": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "6cd27f6642c3cda6375deffc16e760c380e9e6a6bd6d1888b236c4c9e6320af8",
+      "spans": []
+    },
+    "neijing-d410168cb7": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "6b1ae7d957b9826f45d7c98c4989f60693af0c5463bfdc2a3af835f6e78adb30",
+      "spans": []
+    },
+    "neijing-de12630c72": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "77d6e935fc7b22f0e7f3aed83f1181720df8562eb8bab8af68df23826e4ba757",
+      "spans": []
+    },
+    "neijing-785e90cf3b": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "3409d01d47f7deee9544f944be726146816248c8abb97e097f39abe9d8ce5aad",
+      "spans": []
+    },
+    "neijing-3179d641c2": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "4a5e35a05f47bde28119f0e1ce2f28b696d21634319b5b78aac741cbb369b60f",
+      "spans": []
+    },
+    "neijing-6aa5916a96": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "9dbd6cdff2a2d999b194ed37eb10455f0445dc67d059efd1bd1fa41d5c564297",
+      "spans": []
+    },
+    "neijing-2128aea642": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "b106198fb82564796b0826d623b0ad38a1899ba01f393ae3946bb821bf7f4add",
+      "spans": []
+    },
+    "neijing-4db09da115": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "98e0bb2f4ec6759aaf2bad378ca3347b505535e858edefd2d73729344cf60f07",
+      "spans": []
+    },
+    "neijing-f71b65a6b3": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "76403ad25e506863e997569070930aa9d90ad3554e06ea56458e25f800be99c5",
+      "spans": []
+    },
+    "neijing-9ef11e6978": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "1ba00b5decd06be432d83c76d99240d23ee9faecb56cf01982a58401b198dd29",
+      "spans": []
+    },
+    "neijing-778d9d362a": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "7537b2eb3cd3d40f180436672da4c416ffcc409b532c7abb0692f5a6b3de44e2",
+      "spans": []
+    },
+    "neijing-7d6dbcbc0b": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "b466730cfead0c70cb9145f1124968ca570973560d8f3b535b1275de760c4aed",
+      "spans": []
+    },
+    "neijing-c6bbac17a5": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "51ad0fe0053c1ee03696aaa2c525e6100cdbef2d98f08d752d669bc538b5edce",
+      "spans": []
+    },
+    "neijing-53cd7b7355": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "ea8bf3277a5105c9d1d8cb604cc54e7408b0720f86c3558e4ef606a7f7a7d146",
+      "spans": []
+    },
+    "neijing-bbdfcdbe29": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "3350b08edf49ae8c6a3ae5deebfdea7d326d5bc61952fe93fd56e8ae6fb98749",
+      "spans": [
+        {
+          "label": "页面补释或脚注标记，年代未核",
+          "start": 7,
+          "end": 10,
+          "line": 1,
+          "text": "[1]"
+        }
+      ]
+    },
+    "neijing-8f435c46f0": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "895c0eaed78424a83e6dc67fc08cc194521c39a1fe0b14e2203d83b9393d81c6",
+      "spans": []
+    },
+    "neijing-313c4d63e4": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "213201766f114ba68eec8560ae20bd4ecead4bba68f614a0276cc6ed0b7c28b4",
+      "spans": []
+    },
+    "neijing-93786a7b38": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "014d762ccafbd728248e480c169b2303da01a4a1795c052f6bec7de6934d7c7c",
+      "spans": []
+    },
+    "neijing-d82eca74d7": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "f9577eb89cc93329b2ef44b1576c7bc1d20c16c5028ac9a5483842917e458959",
+      "spans": []
+    },
+    "neijing-71acbfc9ac": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "aef9ae28e343abeb2e50f1808b1385b8e3c26bb07189434a877d858c3485cf5a",
+      "spans": []
+    },
+    "neijing-a1f708d793": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "ed4836850078a3eae7d7ebbe70b3983bcae405cd86e9dde14baa8e738c0b40cb",
+      "spans": []
+    },
+    "neijing-73222addff": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "211d789841be603348733f38f9a5b396fcf7d8a493c33dc5835d2c1e937a1c02",
+      "spans": []
+    },
+    "neijing-ddbf192068": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "cc011b95f610c638b114196f314dfb39117de357d0aab63c9fcad9b2d871eabc",
+      "spans": []
+    },
+    "neijing-428fe11b26": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "6dc160c301acc9746ba791fdb122ef1e3746a96bb77786b69d21f42e8a5c2f28",
+      "spans": []
+    },
+    "neijing-c924d0409c": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "b88395dc1f243ba1a8caaea909258481ed2724edc35d27a53841ad28f27508fa",
+      "spans": []
+    },
+    "neijing-4201060f49": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "fc5a6bd212855dc8dffd6260aad6615469c68c7314553a5d23f42966c9350ec4",
+      "spans": []
+    },
+    "neijing-a70fd15695": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "6b779aebf72c43a506cf4ca425a4a9215cbc46c61c0e72a7c8a884388e45462c",
+      "spans": []
+    },
+    "neijing-ccb1665989": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "80519fe0c2b63bb23bdac4e19dca13e4eb363e61e1fc9244c2916c276ec7927e",
+      "spans": []
+    },
+    "neijing-4c7202a0ae": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "e0ff6cb08286315a782de8f11e004147cb48a5e015f559a06c8800498e837369",
+      "spans": []
+    },
+    "neijing-ccf118538f": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "01a127087308e08be7c000551d34c7f6713a007f7d2b862c0349ab283c78b8c9",
+      "spans": []
+    },
+    "neijing-e80f9f5061": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "e260ffccfa9cf2b22cd36b69673dec4a6496142b981eae3bd78feed264d303a4",
+      "spans": []
+    },
+    "neijing-129962421b": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "2b6df8085dc8e5bc3a3d32cf39aa5bd12abcc59b800d87667523bb70223d7900",
+      "spans": []
+    },
+    "neijing-9321a5b769": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "2004f2f2e5edc46d97b5792a4a641fc97f08c59a2276db296f14ec862044d81a",
+      "spans": []
+    },
+    "neijing-44e9b284a5": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "2ef2e92ada6e8799f769fddcb41828f10bdce44e36e2bd16c0ba2451fa7d770a",
+      "spans": []
+    },
+    "qingjing-6df5b33e1a": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "14d3d3f8f8c167277042b6be127114969f6350a0befb9855d4554b386c698c98",
+      "spans": []
+    },
+    "qingjing-38f3323db3": {
+      "notice": "葛玄、左玄真人、正一真人附言层，非经文主段；题署不等于已核实成书年代。",
+      "source_sha256": "0b9539df331c28afb7249bfe9ffca2c673d946c059126413cdbda7e25c1ea3df",
+      "spans": []
+    },
+    "zhouyi-576f38ebe1": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "5fe4b84ca502738d39ba5aedbf42c2e84c7aa56ecdc0fee62ed1fac4a241858d",
+      "spans": []
+    },
+    "zhouyi-fa1ecee64a": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "cb8436836a10695aa228fec65c807b8fb7301203e8f084d3e15d3e5efd500c88",
+      "spans": [
+        {
+          "label": "字形构件说明或音注，不与正文连引",
+          "start": 172,
+          "end": 178,
+          "line": 9,
+          "text": "〈一作太和〉"
+        }
+      ]
+    },
+    "zhouyi-29e3c4570b": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "190ad521305f5287ffa25fb8cfcf413049b2216ab8839d247b17c0d33ab18436",
+      "spans": []
+    },
+    "zhouyi-03600e1941": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "9f40b06c81f4eaef65643d80ccf4862bd9b28d29a05c8f9f6ca13f43894f7ee4",
+      "spans": []
+    },
+    "zhouyi-4a5dc5ea72": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "68e2e5ca1581feb7b8b1de0f61fee1c9f7790c04318f76300163908f4116a3d8",
+      "spans": []
+    },
+    "zhouyi-5530269e88": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "16b0ce6779881468eccb998eaccc0c9aaa4c8d6d1b084add047f693606eb5299",
+      "spans": []
+    },
+    "zhouyi-37ead4c8ea": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "decd89bb53b88a2a0b05e4f83bc1db829c5379ffdb006810e91be8be9bd64c20",
+      "spans": []
+    },
+    "zhouyi-ae87e79448": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "488ca7f7c5c7284a1c1fa686ba1c9e09dedecc12e4183250b417e4f43aabd31f",
+      "spans": []
+    },
+    "zhouyi-ad8703f7be": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "f0a0c0bbf3f006434650628087020bd63db167d80e705492c174ea90618c8d42",
+      "spans": []
+    },
+    "zhouyi-85b00bf8a1": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "8582efd2e84f9a27a62da59ed9ea83f9988d32f145c3bafba3374bd0a8e3d4c6",
+      "spans": []
+    },
+    "zhouyi-0f0dad3dba": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "e6a3758ae6d1556651387405301bee85257f16f7f914b52b25e1b094dfb815ee",
+      "spans": []
+    },
+    "zhouyi-2f6728f6cb": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "83c0528a63af512b90f32adf1a858ac0aa54a178a6566d9fa3c3b1afac840935",
+      "spans": []
+    },
+    "zhouyi-4d5d11a4f3": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "22c1418413fdd514956833f5c5b7924caf70cce23cc77a573ece9f5209aa8e52",
+      "spans": []
+    },
+    "zhouyi-a9e82147ac": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "e7dba722ede31c3126748fbe20aaff76eb5382af9eaae196886171c196407e3a",
+      "spans": []
+    },
+    "zhouyi-a4dcbbaed8": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "a8038bffe077bc453d31892dc2f87564293595be8bc1cf19d2928e42f6c8591c",
+      "spans": []
+    },
+    "zhouyi-5cb3ad2906": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "ed377ec37f55fbca1e8f10538973db979259ed092d33b17590731552b50af260",
+      "spans": []
+    },
+    "zhouyi-327cedcbcb": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "a8c1ef80df6466a5e34b5ba11a6be0b6aba941437e11ff0e96341f82309b617d",
+      "spans": []
+    },
+    "zhouyi-a22262e28b": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "f232a8679ecdffec3c23c26ddc2b5deab49cc00a640246f48fa7cfb267499564",
+      "spans": []
+    },
+    "zhouyi-9f7fe5374c": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "ae916d633aba2b3b6dc7cb73a4b68e86baf40d2fdc8034fd16252493d1c5472f",
+      "spans": []
+    },
+    "zhouyi-2ce65a1581": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "5461a09164d37cceb463c0c4c48bedfc708744f5ab50308b4b9928cb53f7141c",
+      "spans": []
+    },
+    "zhouyi-dbe14e09cf": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "4ab8897131b2365e98e800435dd46e3d8ef5d080af09913c7b96df52d59e617b",
+      "spans": []
+    },
+    "zhouyi-a868e4b2cc": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "f569285eb5c92b03cdf4b21a45bb2e59cc118e03c0013d69eba8eab070eae006",
+      "spans": []
+    },
+    "zhouyi-41c65bc535": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "55cb3e4010590151f929749b09eed98fda3dadee9eba386ee791b34db6597b5a",
+      "spans": []
+    },
+    "zhouyi-87395f0aa6": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "4ddf6f0420662163ff29870c8b4b409202f689953092b8bd1477bcb380c47c38",
+      "spans": []
+    },
+    "zhouyi-68ec26ab54": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "481300589f992d0bdb18f98ede9e3459e0190781822a31bb5b16aea25a0bea10",
+      "spans": []
+    },
+    "zhouyi-c2aa9da625": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "ccf2ba154fa1f376bdbb13a4b407fcb029e1f408efbc9a8b5b2b02e32551a41a",
+      "spans": []
+    },
+    "zhouyi-433aca6baa": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "7eb90f7592011af1bf39a3ea1806429ab2b53a05e0d3bc118b6c3fff878b905b",
+      "spans": [
+        {
+          "label": "网页导航与作者年代题署，不作传文或确定作者证据",
+          "start": 0,
+          "end": 17,
+          "line": 1,
+          "text": "←說卦傳序卦傳作者：孔子東周雜卦傳"
+        },
+        {
+          "label": "网页收录元数据",
+          "start": 19,
+          "end": 33,
+          "line": 3,
+          "text": "本作品收錄於《[[易傳]]》"
+        },
+        {
+          "label": "页面补释或脚注标记，年代未核",
+          "start": 27,
+          "end": 31,
+          "line": 3,
+          "text": "[易傳]"
+        }
+      ]
+    },
+    "zhouyi-2658432334": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "a5d61ee2bd3043ec6f88a32c506b298d294f72c5fd304791da7c5808f4f731b6",
+      "spans": []
+    },
+    "zhouyi-92a607cb87": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "c2944ba9e935cbd4274e0ccf0121ea69d2a754bfe738c84b7e10b938a2c6ebf8",
+      "spans": []
+    },
+    "zhouyi-7269ce5fb4": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "5f594acf2643b942ed35a5eeea10030a93d7b460252cacfbcedb3385f65447c5",
+      "spans": []
+    },
+    "zhouyi-ef879d071f": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "192d9eaa739a918928b259b0d75244b749330a0121ba495fd0842bf313416e26",
+      "spans": []
+    },
+    "zhouyi-86e5495fd4": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "404efadbdd90530b4040770a5c28f8378bd22c32d8a5fe371d76b767b160aa1a",
+      "spans": []
+    },
+    "zhouyi-dc8b4b8ba1": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "af858a591d24babddb25e2371affd739b2045775f817d42fe09e726b47fd71f5",
+      "spans": []
+    },
+    "zhouyi-49b7aa3977": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "18fe6ad8fe018f4129fd7e5e90a99f2840c4722ebbe1daecb41f1675edfc99a6",
+      "spans": []
+    },
+    "zhouyi-bb38351487": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "f49e5d41eb1e165a200bacff7f35c5e443e90b9dd44bffec5cfdb33e508cd9a7",
+      "spans": []
+    },
+    "zhouyi-24e5b09761": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "a8febda14c4dda39cc9632b9c6be8d8f36270d10ce0abbb68736b50db4bb94ba",
+      "spans": []
+    },
+    "zhouyi-2b9ecfd3d4": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "0b3c19c12662e23604bcbdc0ae072a709dd0f5bd0b56c878e598efed429890c5",
+      "spans": []
+    },
+    "zhouyi-d911620fa8": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "47c2631b653e4afc0d847b5935f8d981c9989e6d58c9be0a055df4cf7d570aa0",
+      "spans": []
+    },
+    "zhouyi-f9e85104d0": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "03f5e09bb08fa3c24ecd1196afc488e9701bc4e76696ae3c27adde25aa238a19",
+      "spans": []
+    },
+    "zhouyi-cf46cb1d2b": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "3a9d5c92a7ff7d35d97d49a33dc9be16148c238fb3d02cf17a3d590906a7b86a",
+      "spans": []
+    },
+    "zhouyi-7611c9c1f6": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "f31bdaf7ddedf511fad52a5be0b81d65062881ba3c9f16d76a51e08b3429ed76",
+      "spans": []
+    },
+    "zhouyi-37c23121a6": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "db3ff6d22b55aa16657dcfebf85508282266f66ffb6953595371b4e39a5b812b",
+      "spans": []
+    },
+    "zhouyi-4026a54d88": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "9aa361ea954aae92683e9e18bc9a415059160d440c1084874fd6fdb29aba73cf",
+      "spans": []
+    },
+    "zhouyi-4c356bf69f": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "c3db11b79a715529671fb611f2341f4959abc680444684ce268da1629807bf3b",
+      "spans": []
+    },
+    "zhouyi-40b360b974": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "41682740716444af82a77705ff7b7551a87ced548cfc2f5c33923e478a304686",
+      "spans": [
+        {
+          "label": "网页导航与作者年代题署，不作传文或确定作者证据",
+          "start": 0,
+          "end": 18,
+          "line": 1,
+          "text": "←文言繫辭上傳作者：孔子東周繫辭下傳"
+        },
+        {
+          "label": "网页收录元数据",
+          "start": 20,
+          "end": 34,
+          "line": 3,
+          "text": "本作品收錄於《[[易傳]]》"
+        },
+        {
+          "label": "页面补释或脚注标记，年代未核",
+          "start": 28,
+          "end": 32,
+          "line": 3,
+          "text": "[易傳]"
+        }
+      ]
+    },
+    "zhouyi-b37d5508a3": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "24a4008a9f68c9f8035a9d92f1cf2ac422d5adc4651326ded6cfcdaa3e2a2a25",
+      "spans": [
+        {
+          "label": "网页导航与作者年代题署，不作传文或确定作者证据",
+          "start": 0,
+          "end": 19,
+          "line": 1,
+          "text": "←繫辭上傳繫辭下傳作者：孔子東周說卦傳"
+        },
+        {
+          "label": "网页收录元数据",
+          "start": 21,
+          "end": 35,
+          "line": 3,
+          "text": "本作品收錄於《[[易傳]]》"
+        },
+        {
+          "label": "页面补释或脚注标记，年代未核",
+          "start": 29,
+          "end": 33,
+          "line": 3,
+          "text": "[易傳]"
+        }
+      ]
+    },
+    "zhouyi-a3db04c2a6": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "ebf12cdaaef99d61bcac23056a7be20cd834f181d187e41a4cff3bcd2cf25569",
+      "spans": []
+    },
+    "zhouyi-c99a9dffa2": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "f73cdc5f52020012157dd64ae4713bc1a5ca4289e93d2b13999aa003fd88eac7",
+      "spans": []
+    },
+    "zhouyi-d0b97c0286": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "b199e3656d39fca743534b20b69479b6baa394f785f49f6ed491abb5dabc9390",
+      "spans": []
+    },
+    "zhouyi-66420334d8": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "18e48681f6673e68a21b61c6e6b45ba2c6b29e0b3be795baaaa049036bb96fac",
+      "spans": []
+    },
+    "zhouyi-56fe65d711": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "c497bfe61baa3ecf270fbfe66922e8aa937911c6e0ce67b4ef7b2adcf38354f8",
+      "spans": []
+    },
+    "zhouyi-19dca17f4c": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "04caf641efb9160e00840558cb2386eac6f4631a319df7aaacdf44fe181311b4",
+      "spans": []
+    },
+    "zhouyi-17cd281d32": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "4fafa29a7bb6329ee6f1bd814b01f6383265408d27e85f697cc7868f98a2b012",
+      "spans": []
+    },
+    "zhouyi-4ea8a3926d": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "90b8df6650166224aaa9a6a970852063f65d4fc1d2e41bfdef0a1fbd64e5ee0f",
+      "spans": []
+    },
+    "zhouyi-d010db06c6": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "c8ab8560076b3be71d7ac002ce17e920b54b92db43148ba3f2b3abfbdc2bbe67",
+      "spans": [
+        {
+          "label": "网页导航与作者年代题署，不作传文或确定作者证据",
+          "start": 0,
+          "end": 18,
+          "line": 1,
+          "text": "←繫辭下傳說卦傳作者：孔子東周序卦傳"
+        },
+        {
+          "label": "网页收录元数据",
+          "start": 20,
+          "end": 34,
+          "line": 3,
+          "text": "本作品收錄於《[[易傳]]》"
+        },
+        {
+          "label": "页面补释或脚注标记，年代未核",
+          "start": 28,
+          "end": 32,
+          "line": 3,
+          "text": "[易傳]"
+        }
+      ]
+    },
+    "zhouyi-319b2bff7f": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "3a9049e3065fe7cd03f71dce9a1db20f59e689cc84d50b6b5d869d09b54bf918",
+      "spans": []
+    },
+    "zhouyi-4ed97ec9bf": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "a33ef39fbd07b3141b4dd39a2cf21bbeedf7e76eee0ff4cd82cc2033db3265ff",
+      "spans": []
+    },
+    "zhouyi-640678334a": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "58be93444bb9d7ddb29e147010cb9c1cf871889f9a3cf51a73d24841e6201c61",
+      "spans": []
+    },
+    "zhouyi-0e094038f6": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "b1290c036a1cf69f847868efc593f1bdd851cb58a6d28f6b5e0b2d3a1adb8ba6",
+      "spans": []
+    },
+    "zhouyi-7a06e900cc": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "28ce27ea4e8cdd1e267e4b0e3e2e0b7d7203cadda003d6bef486de1e8e6ed405",
+      "spans": []
+    },
+    "zhouyi-acfaa043fc": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "601bc68b1ea2dca904f456b69d91a5515a485cdd50b6b9f445874e317cf38830",
+      "spans": []
+    },
+    "zhouyi-8cb9f8d455": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "8bb1c7489990c92b2910abf6a32b94bfaedfb316c6ab6404d1352e8d47f97a06",
+      "spans": []
+    },
+    "zhouyi-2b15f5025e": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "c761ce8ff79c7712a71614cef8986faf14e40f3789ac3095dd085d92c2a0f4c7",
+      "spans": [
+        {
+          "label": "网页导航与作者年代题署，不作传文或确定作者证据",
+          "start": 0,
+          "end": 16,
+          "line": 1,
+          "text": "←序卦傳雜卦傳作者：孔子東周易傳"
+        },
+        {
+          "label": "网页收录元数据",
+          "start": 18,
+          "end": 32,
+          "line": 3,
+          "text": "本作品收錄於《[[易傳]]》"
+        },
+        {
+          "label": "页面补释或脚注标记，年代未核",
+          "start": 26,
+          "end": 30,
+          "line": 3,
+          "text": "[易傳]"
+        },
+        {
+          "label": "独立校诂版，不能与前面一篇混引",
+          "start": 419,
+          "end": 766,
+          "line": 69,
+          "text": "校詁版（至篇末）"
+        }
+      ]
+    },
+    "zhouyi-edae5f01eb": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "10a70b687a5666695801a858839cb126f1b5196a7ceb160e7ac089774d24dd3f",
+      "spans": []
+    },
+    "zhouyi-685d6cb135": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "d1fdae688df6eee548df3a7b6a4f70b3756997af438a79684c98dd4a25f2f0de",
+      "spans": []
+    },
+    "zhouyi-af440482dd": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "0a853e00d2166d74983e4f9148084295319188bd3c762a939853c0ab791afc26",
+      "spans": []
+    },
+    "zhouyi-96e88eccea": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "3360f2f0fb04ba83aa243d79fa937322ca3d9d9d06e677963d89fc4c27fbde89",
+      "spans": []
+    },
+    "zhouyi-6209db10ab": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "3968d585b893d62362ee8624d1c2624ba867ccf0c1b6bad45ab800e80f9ad513",
+      "spans": []
+    },
+    "zhouyi-687431f638": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "8073bdf64d16395e3feacbaf20925249c759f0beab9949a5c3b36f0a9d88e5ea",
+      "spans": []
+    },
+    "zhuangzi-6a0d3dd9ec": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "739aad00bb404959cf538585fa387f2f67b0a96d05afcda9949c6dc1a6530021",
+      "spans": []
+    },
+    "zhuangzi-22aa001d3f": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "a20f8de21436a4502901811ee37b778ad88de135752b3d841a3499e2a1aea2f2",
+      "spans": []
+    },
+    "zhuangzi-e033d39039": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "4a3c39a61486742e6d90bebb61ce9dac034604f01385cea55c1cf1419046e034",
+      "spans": []
+    },
+    "zhuangzi-83e80fd1ca": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "d135e1b559d936df65c5952b35346330a139293b1231e2c43ef4cb5abe0ec3ff",
+      "spans": [
+        {
+          "label": "页面补释或脚注标记，年代未核",
+          "start": 773,
+          "end": 778,
+          "line": 23,
+          "text": "[公孫衍]"
+        },
+        {
+          "label": "字形替换校记，年代未核",
+          "start": 2590,
+          "end": 2596,
+          "line": 97,
+          "text": "(太)[大]"
+        },
+        {
+          "label": "页面补释或脚注标记，年代未核",
+          "start": 2593,
+          "end": 2596,
+          "line": 97,
+          "text": "[大]"
+        }
+      ]
+    },
+    "zhuangzi-2de1cb28f4": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "c0317e58c490219d15daed22707776ed3058a3c82be840adb924ccaa1b360d43",
+      "spans": []
+    },
+    "zhuangzi-f21468055a": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "f4d945e2e5af0a7143483c1d5d07bc8b27c87134ddabaf157838b0e944fb864f",
+      "spans": []
+    },
+    "zhuangzi-2c46a35d0a": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "37774c7b2cf38a97724d414b5a2e101c3db522140735dee7c887fc07a233bbc9",
+      "spans": []
+    },
+    "zhuangzi-878b03d453": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "83eb0145c9470d1fd050cb94e21d4bd3f68fce36f885cf850c99803b82ed13ca",
+      "spans": []
+    },
+    "zhuangzi-1994ec153e": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "831492c766efe7d0b75ecc51f6f5fe467d5fe44926328c3c1b920414ef26b227",
+      "spans": []
+    },
+    "zhuangzi-36e4f64fe4": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "619a8b794ed3586f4269b194b918d6fad4d2fd73f81d8024613dc11527873fdb",
+      "spans": [
+        {
+          "label": "缺字或补字标记，未校定",
+          "start": 1523,
+          "end": 1527,
+          "line": 39,
+          "text": "■{梨}"
+        }
+      ]
+    },
+    "zhuangzi-9358cc0ef6": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "2b9e6bff0994056b3ae245a8d1d4c573e9aee7855614831e6ca26264eab0f699",
+      "spans": []
+    },
+    "zhuangzi-70928232c9": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "39280dff8c4f85ef87bc4892931cce9ff9409d089aac8b8bfcff038fc4654289",
+      "spans": [
+        {
+          "label": "页面补释或脚注标记，年代未核",
+          "start": 850,
+          "end": 853,
+          "line": 25,
+          "text": "[撮]"
+        },
+        {
+          "label": "页面补释或脚注标记，年代未核",
+          "start": 947,
+          "end": 950,
+          "line": 27,
+          "text": "[無]"
+        }
+      ]
+    },
+    "zhuangzi-21ad9855de": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "59a1a58283ac768ba552888786139488de8fb28e75e9385733f079ffba2cf937",
+      "spans": [
+        {
+          "label": "字形替换校记，年代未核",
+          "start": 1069,
+          "end": 1075,
+          "line": 27,
+          "text": "(傳)[傅]"
+        },
+        {
+          "label": "页面补释或脚注标记，年代未核",
+          "start": 1072,
+          "end": 1075,
+          "line": 27,
+          "text": "[傅]"
+        },
+        {
+          "label": "字形替换校记，年代未核",
+          "start": 2647,
+          "end": 2653,
+          "line": 75,
+          "text": "(俗)[令]"
+        },
+        {
+          "label": "页面补释或脚注标记，年代未核",
+          "start": 2650,
+          "end": 2653,
+          "line": 75,
+          "text": "[令]"
+        }
+      ]
+    },
+    "zhuangzi-0bae47eb0a": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "5802eba4108bbb5ab906b0b777502d3c01069ed4356087cc73b7a3be5b05f638",
+      "spans": [
+        {
+          "label": "页面补释或脚注标记，年代未核",
+          "start": 1646,
+          "end": 1653,
+          "line": 49,
+          "text": "[物見其物。]"
+        }
+      ]
+    },
+    "zhuangzi-a2724c0c8f": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "5251550f476f57e92f30beafae24f6b875bc214ff8dc984e5f7e2aaca4f4a67f",
+      "spans": [
+        {
+          "label": "字形替换校记，年代未核",
+          "start": 3840,
+          "end": 3846,
+          "line": 125,
+          "text": "(之)[人]"
+        },
+        {
+          "label": "页面补释或脚注标记，年代未核",
+          "start": 3843,
+          "end": 3846,
+          "line": 125,
+          "text": "[人]"
+        }
+      ]
+    },
+    "zhuangzi-4c91c68498": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "c5859dda08cd65e28779651c49b07fda3e1ca210c899a881e5d5a24287c62032",
+      "spans": []
+    },
+    "zhuangzi-40edb77ee3": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "eadfc25f72a48914ebccf01450fc134fe90da8bcb961a4481b6caba28503a4cf",
+      "spans": []
+    },
+    "zhuangzi-aaaf0d1e84": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "976145c0bf56f7a47422d48bfca964c670d48ff4e1cb7bcf43bd6146d5bd8300",
+      "spans": []
+    },
+    "zhuangzi-a9995919a6": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "5ae27e806651b3b2f85e5007a1c88b74237af24324c0d5f5f3ad6bf18ca20137",
+      "spans": []
+    },
+    "zhuangzi-baa8a0164d": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "273cbd1e61790ae9b336c80b1dd28250e8728a0c31810c07e2e1fb38276b6fd6",
+      "spans": []
+    },
+    "zhuangzi-a05559fbb7": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "47a25b6bb04950505cd3a3f8e596cd3fc1a0fb7b282658cf8d176a112091655c",
+      "spans": [
+        {
+          "label": "字形替换校记，年代未核",
+          "start": 1351,
+          "end": 1359,
+          "line": 41,
+          "text": "(巍巍)[魏魏]"
+        },
+        {
+          "label": "页面补释或脚注标记，年代未核",
+          "start": 1355,
+          "end": 1359,
+          "line": 41,
+          "text": "[魏魏]"
+        },
+        {
+          "label": "页面补释或脚注标记，年代未核",
+          "start": 3215,
+          "end": 3218,
+          "line": 121,
+          "text": "[1]"
+        },
+        {
+          "label": "页面现代字符编码说明",
+          "start": 3390,
+          "end": 3503,
+          "line": 123,
+          "text": "↑True character resembles 敕 over 韭, but 束  should be replaced with  朿. UTF-8 無其正字，只好暫用相似字。應該是敕(朿+攴)在上，韭在下。見中文大辭典。"
+        }
+      ]
+    },
+    "zhuangzi-a3c61942af": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "c075a8ded2f808eb8bab9f1168003f89a77d330c20fc327353e68da20225ab35",
+      "spans": [
+        {
+          "label": "页面补释或脚注标记，年代未核",
+          "start": 333,
+          "end": 336,
+          "line": 3,
+          "text": "[於]"
+        },
+        {
+          "label": "字形替换校记，年代未核",
+          "start": 721,
+          "end": 727,
+          "line": 7,
+          "text": "(毫)[豪]"
+        },
+        {
+          "label": "页面补释或脚注标记，年代未核",
+          "start": 724,
+          "end": 727,
+          "line": 7,
+          "text": "[豪]"
+        },
+        {
+          "label": "字形替换校记，年代未核",
+          "start": 1173,
+          "end": 1179,
+          "line": 17,
+          "text": "(毫)[豪]"
+        },
+        {
+          "label": "页面补释或脚注标记，年代未核",
+          "start": 1176,
+          "end": 1179,
+          "line": 17,
+          "text": "[豪]"
+        },
+        {
+          "label": "页面补释或脚注标记，年代未核",
+          "start": 1523,
+          "end": 1526,
+          "line": 19,
+          "text": "[之]"
+        }
+      ]
+    },
+    "zhuangzi-096af937e5": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "db36e52ab34089f61e9b01a2a4014e130394140fd5ea23d452912a75b02b476f",
+      "spans": [
+        {
+          "label": "字形替换校记，年代未核",
+          "start": 743,
+          "end": 749,
+          "line": 15,
+          "text": "(之)[是]"
+        },
+        {
+          "label": "页面补释或脚注标记，年代未核",
+          "start": 746,
+          "end": 749,
+          "line": 15,
+          "text": "[是]"
+        }
+      ]
+    },
+    "zhuangzi-1189908485": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "a81d77727060570abbbeb4df0bec9b7706a017d4616a88c932952efdbbe4da72",
+      "spans": []
+    },
+    "zhuangzi-66ef2d64ee": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "b0564797cd104643ea923a53245b965bb20b7f9f40ef06dc7585c334ab4cde14",
+      "spans": []
+    },
+    "zhuangzi-b451cb85dc": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "2f68fd8648d52b7765ecb2cfcab46262b09061398c702d8b2f004876139c594d",
+      "spans": []
+    },
+    "zhuangzi-86ec2799f5": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "034c5d2f1860e4548057aa389d0e23b7d39374a5677b6b42ed84e59af6adc98e",
+      "spans": []
+    },
+    "zhuangzi-bbb8f3d7bb": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "4398868c3f090eebcad807a6a7b2664838ce7b52ca3d313be703eaaf3d3598af",
+      "spans": [
+        {
+          "label": "页面异文校记，注者年代未核",
+          "start": 294,
+          "end": 299,
+          "line": 3,
+          "text": "一作「搶」"
+        },
+        {
+          "label": "页面异文校记，注者年代未核",
+          "start": 333,
+          "end": 338,
+          "line": 3,
+          "text": "一作「飧」"
+        },
+        {
+          "label": "页面异文校记，注者年代未核",
+          "start": 1707,
+          "end": 1712,
+          "line": 13,
+          "text": "一作「斄」"
+        }
+      ]
+    },
+    "zhuangzi-3a2b3ab61d": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "eb2a92b78f6f7890d9a662e779e8078718d5eb9792ff7f4b9c1446bf86374202",
+      "spans": []
+    },
+    "zhuangzi-22b8acd90c": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "f9fdebda1ede022c9466d0e46fafa236a48df4fecf0394d26d8b9e3cecf59202",
+      "spans": []
+    },
+    "zhuangzi-13468679b7": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "bcd28dd3f0949c0ca4c983f11166c8f76d7d032889c38cebb8c141fb8be7f23d",
+      "spans": []
+    },
+    "zhuangzi-e323de2aa4": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "cf4d0a46e69d541f1de37aa1a20b5caddd559dda4cfdf3c36ef8ffd6f1dfd97d",
+      "spans": []
+    },
+    "zhuangzi-64179a8777": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "be3897b03190768ba9b565bf1ddcfde4db61fad5227dd73f059c08ce7a8e31e0",
+      "spans": [
+        {
+          "label": "页面异文校记，注者年代未核",
+          "start": 713,
+          "end": 718,
+          "line": 3,
+          "text": "一作「薾」"
+        }
+      ]
+    },
+    "ziwei-f4a5ec6351": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "091f967ac8f490145043c61e35b2faaa85cd3548d84fe449c85f25a8b86f01ea",
+      "spans": []
+    },
+    "ziwei-a4c5e93fbc": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "22422f30edd68dfebbe39db5d4a85945e8257f878154b0c9ddb66befa2402508",
+      "spans": []
+    },
+    "ziwei-5854475d87": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "6da036eb3d41977aae5c4f6c9a0f29715bac0b45d2c719f0d8d75d58041be093",
+      "spans": []
+    },
+    "ziwei-92d9b07644": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "98a7248da0b4825c14d42ad5a2310aefb029403cab720eea220f84caca0447c0",
+      "spans": []
+    },
+    "ziwei-f7f0d3925f": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "b826ceddaa26190acfa800312808d2128235bb285f988b8131035e1c0dcc0a63",
+      "spans": []
+    },
+    "ziwei-9033b6dbe4": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "6b442ae64cc7b8276e4e6dd9b5ca6f935363668b57e231352542cfe1a12326e9",
+      "spans": []
+    },
+    "ziwei-2bd8ae02fb": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "37406282b0dcf92a2c93ac89dc1e03149346675c5a44356105abb1bbd2a38cdd",
+      "spans": []
+    },
+    "ziwei-17a508724e": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "70f9c577bb686b2b726c5d71a834244dac714757ab1aa13e924ce3090135c506",
+      "spans": []
+    },
+    "ziwei-517d43533b": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "ff883c7006291e9fc1f2bcb58a4dbd289da9eb8880b5f1f60b363cac67fe09fd",
+      "spans": []
+    },
+    "ziwei-d8b33b7607": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "ada4add2eb2beca50b10e3d8b0f7284d00c93f1717411b489d4c9c00787571d1",
+      "spans": []
+    },
+    "ziwei-1cc7ca7272": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "cdffbd98286d4b7958fd1a8deecb33da69d045b2363fe45d926ce2c3008cd38b",
+      "spans": []
+    },
+    "ziwei-8222424fdd": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "efb14734502f000a865d6606ac81592f9c74ab7fb471396c4b8626b258bc1bad",
+      "spans": []
+    },
+    "ziwei-e80ab319bc": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "40ff9c3883905540dfe961fee6669e64981571ace056e81f58fde0fbd9b980ed",
+      "spans": []
+    },
+    "ziwei-99e1f0db60": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "82472efd87b62979b53b5f5c39ef8fffad105435ac4dec3b0159186ea99c51d4",
+      "spans": []
+    },
+    "ziwei-0998c5828f": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "9d848f09848381571e9ca38b5976ef7d98dbafc47aeef5fcbf4b01f86ae851a0",
+      "spans": []
+    },
+    "ziwei-913e54953a": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "3c368ed63d09a3fe377cec871b332f2d753c914a2b707cbe808208c88e714f74",
+      "spans": []
+    },
+    "ziwei-c9b5977f82": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "3b83d1cd53f4a70bf6826826b5a044c9ed84a114a371b0da93f9d251be7e16c2",
+      "spans": []
+    },
+    "ziwei-c9ea3e5e57": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "919290800ef00dd756260404986cf6455cdaf5cd1fd26a35fbb992ee89fa3711",
+      "spans": []
+    },
+    "ziwei-f995f1f215": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "9bb64bad170656395dd4245bf5711b5b240b549cc710ee7acce84e62e97bd229",
+      "spans": []
+    },
+    "ziwei-a52d665c89": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "ddf059d3f04886ec4fcee4d6e11995d5bf146fb8e51973929aa92945dd1c1e11",
+      "spans": []
+    },
+    "ziwei-5cf9a8e02a": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "42717c48eb16930226059b91c12d9eb81c00d7177b6812961c0cb3325027f6d2",
+      "spans": []
+    },
+    "ziwei-df340a4165": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "ef00964e8f8bbb0c0ad274df2a6f41265d9f9c4ebdb243045e7f9f6b905e2245",
+      "spans": []
+    },
+    "ziwei-48d08a594c": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "c6b9ca57f9d3cb5d5d553fd898fed8c94f3ff78969bf098feae4a9d74a4b8fde",
+      "spans": []
+    },
+    "ziwei-0077d226fc": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "8cc7feded59074686a173527bf71ad96379a3d1dd27cf75d28ac117ba3198536",
+      "spans": []
+    },
+    "ziwei-9b2afca5c8": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "1cf8c304a7fd89e5319b93d59178cad30cdcf8040362e7aad2e630a2be4ddf9b",
+      "spans": []
+    },
+    "ziwei-3d89e8be3d": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "20cae5efcf7d805e243e0f810692a21de2036ab6cae98ed9e2907c7e6d3bdeb9",
+      "spans": []
+    },
+    "ziwei-21e8e6d907": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "e6e212e885b7ca7f1c14c04821d96a855258675ced530fd88be1fbd05fca3c60",
+      "spans": []
+    },
+    "ziwei-c63ef38e9e": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "e3e9240d313d2b9a9dd29738bc7d1d4df579eb622cd2a37ba665b3cdba5156c8",
+      "spans": []
+    },
+    "ziwei-ca8bfc72f9": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "ac0686924a82f81445533e784f31116196816d626f27cd6555ff9abcb19125ed",
+      "spans": []
+    },
+    "ziwei-e5af309d10": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "9a20553986b857f340b5841768cecfa239dbcb91dc4f0097a823f185e6dad520",
+      "spans": []
+    },
+    "ziwei-bae7ea13da": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "2f1b868614bf1fa111cfa66eb9b5d0bf70713dfbcebff7e1f5d1a47f8b707c9d",
+      "spans": []
+    },
+    "ziwei-eb7be8aade": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "f13633822dc45e3efdb2095b9ff79eaa8bcfa72439cfdeec40486878ff9f105f",
+      "spans": []
+    },
+    "ziwei-2e9e95a33d": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "6d96f8e52d033a2fb15a236cebea06d82c7874fd0ffcfc4a25e3d82135e91907",
+      "spans": []
+    },
+    "ziwei-938c1eb8fd": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "522fe1c454fb64bff602c587cf12eb6822954df5c83fd2244c684eba52d20e11",
+      "spans": []
+    },
+    "ziwei-366a9f2aee": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "29e07637b93e24ccfb6970640a825c701b55224fcc3c50fd9492cfaeed96c90d",
+      "spans": []
+    },
+    "ziwei-463d008292": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "7ff9a535c370243ee2b26978a85e825016e67177160e47ccea796b4ca174fc25",
+      "spans": []
+    },
+    "ziwei-7211cdb8e7": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "a101c4fbbffb9deff145be0f4abc380343baea24a4bc65c3e5182b00ed97953e",
+      "spans": []
+    },
+    "ziwei-b94ef7c80a": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "bc6fa125620c0e7a84e9ca8dbe44cc6db4db6963962f1d1ab4c29a385ad24f7f",
+      "spans": []
+    },
+    "ziwei-eef9d6c01b": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "9c069bf30669e7fd0f650c0491c245b4c6c929420398b3d30618bb09069679c6",
+      "spans": []
+    },
+    "ziwei-1ef3f7f333": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "68858f5894ba6f699eb1ff3b6a2c9eb3648b17f4af292ac73ceca98b663a0ef1",
+      "spans": []
+    },
+    "ziwei-7f51cc3868": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "36e1de097c2a64bafb136868eed8f365b6d7926a35b6e468d6c8234c87dff65c",
+      "spans": []
+    },
+    "ziwei-230e9718d2": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "02c0da94c742045730781dddf8e79869bad3b8804153c23dc85c786bd54c3cb0",
+      "spans": []
+    },
+    "ziwei-205e6fd599": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "01c8f89f6973db44cd0b5a2adf2d0d72532291a9a4acf48b114e40d0168a4477",
+      "spans": []
+    },
+    "ziwei-ea746e886a": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "101c79ee4c4f765a2b1180b0f50e4ab9b800acd0f5df859b1e3a0034682787b2",
+      "spans": []
+    },
+    "ziwei-478ab796af": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "cd7dfb3a4990806af3c7089d54e129d7a418037d8ac53fa31bca48718088d313",
+      "spans": []
+    },
+    "ziwei-b9517807b7": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "3b8295cd4bb8a28acb69b998cbf996a8ce9421b8eb6488b24390fcdea0db8ec9",
+      "spans": []
+    },
+    "ziwei-046551d9d0": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "be9a4e58d9f3b1cf76af7941455cb4bedc9cbc0e5254fce654224fe1ed65c8d5",
+      "spans": []
+    },
+    "ziwei-70788a0023": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "e098415408c323e5c9009fe665be18615ac451c609dcf99e8c4c49d3267756af",
+      "spans": []
+    },
+    "ziwei-ae2478f3ed": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "06ec14495e15b382d927b864115e8550f0e705dbedfbc725a467d17ea9eef734",
+      "spans": []
+    },
+    "ziwei-6bca77dee1": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "fb56bb0ac992ede0e9fb76fe5325a54bc7e404c6ced5c254baa40f6ba974dab7",
+      "spans": []
+    },
+    "ziwei-3d8c7c57d5": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "2d6a2028aae9aeba3e8b560bf580119c8b040df53d38a24870e108b8115c1834",
+      "spans": []
+    },
+    "ziwei-2ccf2b2dce": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "d11140f3253fb8777c9afc7456f8170d3601a9f014f4a9a700bd966a58a5c8c6",
+      "spans": []
+    },
+    "ziwei-9f723f0be1": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "8ac707c9034b766fd0a7d4c82c36085997f86a58198ab77d23dc805ac30c0f51",
+      "spans": []
+    },
+    "ziwei-6b77cbc51d": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "d713ab6406a1695daccb4f84959bf4bc5b0a384dfe0a1788c465ad0d7922228f",
+      "spans": []
+    },
+    "ziwei-8d18d96849": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "f08f84ad6bcfd3e80038cf30673bf926b267d45ddd85b0d36252887fa6e2d80a",
+      "spans": []
+    },
+    "ziwei-3984ac713f": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "14b72773323be9a8e2d34f9060c8ca6014a2eb8eba35f9c5f5b46631678a4838",
+      "spans": []
+    },
+    "ziwei-fbb960cad4": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "497399a0f23f76785f6138b72cf5fb43c96226064d33d2629ee5a26009c70677",
+      "spans": []
+    },
+    "ziwei-1cb224b19b": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "3146857a3737597fc2240cde76c99b9c941090031d01f43d31a66da2993590c4",
+      "spans": []
+    },
+    "ziwei-f43d27ce3d": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "dda060a46b07b0ba3260751ae7dbcc63e1db136c146b0298f76e1b6f7e0c4c53",
+      "spans": []
+    },
+    "ziwei-0bfa3e0cac": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "7d328c1ccdc904b2e16d02d882cadbe182d724363cccfb267a701f7fe63e8035",
+      "spans": []
+    },
+    "ziwei-271243df14": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "3351519fe4e884492cc392763d5acc9ff86b9c121f29214d0b6ab91a0838807d",
+      "spans": []
+    },
+    "ziwei-6ccf444cdc": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "1c2d816243b6a75d3f9063a458c8d368de9229d33d65b77b70259f9f6c9e0fe2",
+      "spans": []
+    },
+    "ziwei-097a513ba4": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "e017c95aff97774ebc26eca59d1037a66fd7d77e669fc9dbc957a6d9fb41d2f9",
+      "spans": []
+    },
+    "ziwei-c040ddd4b2": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "aae4d1b911f93ccbb76b4e86b3c6c57d1164ea562d07e7dcbb02dfad675679e8",
+      "spans": []
+    },
+    "ziwei-43afb7d19b": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "0e0fd2cc57fa9cf38f8a6fb40ea9840d58e787e80a0837e7972f615c2ac1d645",
+      "spans": []
+    },
+    "ziwei-253ef7d9a5": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "f99a3e755ecc2443be018f68c3cf584488fa2fc970442b5d9caa106b1c7b76ec",
+      "spans": []
+    },
+    "ziwei-24e4cfa8a4": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "7dd3793b11c75a527be42ac0770b4d1c6336eaa23410459d4ee7ad51914d4a16",
+      "spans": []
+    },
+    "ziwei-c704f590fd": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "9d35c0581812da3f69712a27d3071344dffdd411b8bf6473d279246e28b75c8f",
+      "spans": []
+    },
+    "ziwei-3ee4fff9ab": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "71e9283be472fe2d129013781ba73a23e850bef6a7a4fb393ab2fc73ba0724cf",
+      "spans": []
+    },
+    "ziwei-129750d8b2": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "82e6e76bec93fbc2393d7781c4aee0f0cc850e7279866a7fe4f060317ead1d46",
+      "spans": []
+    },
+    "ziwei-acb430031d": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "b1957d0cf8cdcc40c3faa7e78d99865ffdf9f04f717ad1dcb9ff8778b6ca1a52",
+      "spans": []
+    },
+    "ziwei-4c040a94fb": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "6bd2be3835665cba23dbf6b88965c108e170001cda266d3632bc0e366a20ad6f",
+      "spans": []
+    },
+    "ziwei-673354eaed": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "705c62b2f3d469a228feaf4ad63dc5f8ae2de9b4b3e2d29364cd83b74ca3fd24",
+      "spans": []
+    },
+    "ziwei-f4f8279b2e": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "30aa12fde6546818be4b3c00099b8e2fda4833ffb814059d212a029271b74956",
+      "spans": []
+    },
+    "ziwei-78abd70b18": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "2bec2dff78ecbe9825350c23f65994590c95d3e498eecec501845f1d995e6a78",
+      "spans": []
+    },
+    "ziwei-1d5acfad60": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "d14ad65cb5042448d96f1417e285ae851538bc0a390c51f0739e2b4754790892",
+      "spans": []
+    },
+    "ziwei-db430d6a02": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "14e34cea114df00f8a74c39a48eb6c532cf0d7114f84eb648cddd64a52f8d4f4",
+      "spans": []
+    },
+    "ziwei-15afc9152d": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "d5908458c996ee9dfd84833a8987d4ab83d0e9a0f621fcee7904cfd71877bacf",
+      "spans": []
+    },
+    "ziwei-0465830e5e": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "7c122fcd8409db26578a550d024c63188b2a8082a83bf65ebfa506e58c218e81",
+      "spans": []
+    },
+    "ziwei-5fabd065f4": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "7d423075064cde9a9ef60a21f79bde8b4102e73ac1ac2f0a26d11c704e618aa7",
+      "spans": []
+    },
+    "ziwei-573922a979": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "3eeeed4236f767f33375d10269971f8b093e0218c1a3a5324afad0a5d366f35d",
+      "spans": []
+    },
+    "ziwei-03719baea0": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "8558bdf2f9a85360ac3f970d340d50ea03105bc18ba8239af565cbbcbc8a1735",
+      "spans": []
+    },
+    "ziwei-2a9e8afe48": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "9c71de8745a18aa7a90f8974bca39adae10c2b5d649a9a14238a591ca40b1af5",
+      "spans": []
+    },
+    "ziwei-4fa1685b4d": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "b1c9357ce61d87a72e434cca130c85cedb20b62a634e414593546037fad18ef7",
+      "spans": []
+    },
+    "ziwei-e934d0ad71": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "2aa9532dc8748d17be4795031ed19364bb336402e50ac871428416db24cd1419",
+      "spans": []
+    },
+    "ziwei-891d1e83a1": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "2c1a76adcca600f769701e9dd6d77fa51d1d082e750a585b30fd752f84093789",
+      "spans": []
+    },
+    "ziwei-2511315027": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "49f2f5c373004d88f2b740f784d97381f4e13053fa6d3320f0d3ed7a95ee9c89",
+      "spans": []
+    },
+    "ziwei-42c13aa57d": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "ffdf3dda55a7d606c293b92ee1b4f18f512fc0991a4fdc9b27e8022ca8cabde4",
+      "spans": []
+    },
+    "ziwei-80c1efe08b": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "b79bac41bc4b0c69a0373d00de51a93bf33fc03d0834ac36338fe980fa6476ba",
+      "spans": []
+    },
+    "zuowang-0c708866fd": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "ff8c6ca0b7725fefa4fb5a0ad22a9d85385430df49091cbe1bde85c48b931cf9",
+      "spans": [
+        {
+          "label": "网页收录元数据",
+          "start": 13,
+          "end": 30,
+          "line": 3,
+          "text": "本作品收錄於《全唐文/卷0924》"
+        }
+      ]
+    },
+    "zuowang-6d705aecb2": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "a5681652f42dac101862328d5deb69573c594e1f83c7ef7eb9ec535fc1533b7a",
+      "spans": []
+    },
+    "zuowang-54ac4112e1": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "fb85a02f7698ce4a266177923c06bf2ed5d82bfa338546f509f50f50f7fddd12",
+      "spans": []
+    },
+    "zuowang-3ab067bb8b": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "07caeca248a0338588c228b5aa3c890ab5b47eb1553b122d506c95f493075364",
+      "spans": []
+    },
+    "zuowang-e6ea0fd294": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "a1f67f9f8c48780636793586a7e03a81f3485582a911bf0cc1bc1f69d1ac33e4",
+      "spans": []
+    },
+    "zuowang-5b047712b7": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "f8285894688d6f71228bc4c48b55f1f7c22c5ffcb33810ccf364c1984d646d4c",
+      "spans": []
+    },
+    "zuowang-8b56dfa5c6": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "a63d056fa177796b0f9b37d0dc769d63d7ae2144c1b86bb0d767846d663f604f",
+      "spans": []
+    },
+    "zuowang-3a391f0db9": {
+      "notice": "所选来源正文层；引文保留字形。标记探测只是辅助，并不证明未标处均为纯经文。",
+      "source_sha256": "26c0e62587c84aa5e7a9530b44ac851db96c58dec8671342c410573293575aa5",
+      "spans": []
+    }
+  }
+}

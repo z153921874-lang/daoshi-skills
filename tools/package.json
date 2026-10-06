@@ -1,0 +1,7 @@
+{
+  "name": "daoshi-local-tools",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Local reproducible traditional calculation tools; no predictive validity claim",
+  "dependencies": {"iztro": "2.6.1"}
+}
